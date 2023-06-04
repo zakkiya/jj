@@ -1,0 +1,1001 @@
+,Text,Sentiment Score,Sentiment Label
+0,Tweet_Tokens,0.0,netral
+1,ernestprakasa     kkn            desa            tari       warkop         dki          abdi         setan       dil          cetak       angka        box         office       indonesia,0.0,netral
+2,itzyjlsu          woe            kembang         desa       kkn            desa         tari,0.0,netral
+3,moviemenfes       film           lokal           gak        laris          tayang       film         emang       film         lokal       aja          kalah       saing        isi,0.0,netral
+4,petirbaelish      tanyarlfes     oh              rt         petirbaelish   tanyarlfes   anak         twitter     dah          alami       mbak         bibit       unggul       amrazing,0.0,netral
+5,winddflowerrr     desa           tari,0.0,netral
+6,alhevk            gatau          aja             kmu        kades          desa         tari,0.0,netral
+7,sempet            jarang         main            twitter    kali           sekali       buka         liat        thread       kkn         desa         tari,0.0,netral
+8,kkn               desa           tari            sih,0.0,netral
+9,tanyarlfes        adora          hilman          yg         bikin          twitter      wkwk         chatime     kkn          desa        tari         safa        berflower    yaa,0.0,netral
+10,tanyarlfes        skinnyfab      afi             cappadocia ugly           cake         kkn          desa        tari         reinhard,-3.0,negatif
+11,haloodhita        langitponpel   ketemu          pas        kkn            desa         tari,0.0,netral
+12,tanyarlfes        kkn            desa            tari       ga             sih,0.0,netral
+13,nonton            kkn            desa            tari,0.0,netral
+14,sukma             still          stuck           desa       tari,-2.0,negatif
+15,mksdnya           gmn            kirim           bwi        kirim          desa         tari        kah          https        co          uvjxalwwev,0.0,netral
+16,optirmal          mandi          kolam           air        desa           tari         wkwkwkwwkwkw,0.0,netral
+17,tau               yg             zaman           yg         menfess        yg           gatau       kecuali      kkn          desa        tari         pas         sekolah      asrama,0.0,netral
+18,betemaxx          bocahkacang viniranika         tanyakanrl rzlfbrnt       iki          seng        ng           kkn          desa        tari         ta,0.0,netral
+19,andrianmaul       kkn            desa            tari,0.0,netral
+20,tanyarlfes        cerita         kkn             desa       tari,0.0,netral
+21,tanyarlfes        gilang         bungkus         kkn        desa           tari,0.0,netral
+22,kkn               desa           tari            iblis      jemput         kkn          lancelot,0.0,netral
+23,tanyarlfes        safa           waluh           kukus      air            putih        kkn          desa        tari         template    orang        ngetawain   ngejokes     gempar,0.0,netral
+24,tanyarlfes        space          safa            waluh      kukus          kkn          desa         tari        afi          pribadi     gilang       bungkus     audrey       naga,0.0,netral
+25,habisnontonfilm   simplem        jameschne       brrti      cerita         kkn          desa         tari        marketing    ya          huhuhu,0.0,netral
+26,tanyarlfes        thread         sugar           daddy      yg             dokter       ama          kkn         desa         tari,0.0,netral
+27,tanyarlfes        kkn            desa            tari       sii,0.0,netral
+28,tanyarlfes        lol            tau             chatime    skinnyfab      kkn          desa         tari        safa         space       sepatu       docmart     waluh        kukus,3.0,positif
+29,ragasea           anxious        people          perca      perca          bahasa       kkn          desa        tari         ivanna      van          dijk        bonus        divergent,-2.0,negatif
+30,bima              kkn            desa            tari,0.0,netral
+31,tanyarlfes        gua            tau             waluh      kukus          kkn          desa         tari        cowo         kacamata    safa         space       gua          ga,0.0,netral
+32,plunyon           kalikuning     adlh            destinasi  wisata         alam         kawasan      taman       nasional     gunung      rapi         tngm        yg           milik,0.0,netral
+33,tanyarlfes        kkn            desa            tari,0.0,netral
+34,kkn               desa           tari            lekat      wkwkwk,0.0,netral
+35,tanyarlfes        kkn            desa            tari,0.0,netral
+36,tanyarlfes        kkn            desa            tari       wakil          hwang        renjun       mbak        nuri,0.0,netral
+37,legend            memoriable     justiceforaudreykkn        desa           tari         mn           bus         l            w           space        safa        afi,0.0,netral
+38,tanyarlfes        thread         kkn             desa       tari           woey         merinding    anj,0.0,netral
+39,bgtt              salah          kesan           zaman      perang         ht           omnibus      law         trus         ad          jadi         gilang      bungkus      kkn,0.0,netral
+40,thread            kkn            desa            tari       sih,0.0,netral
+41,tanyarlfes        kkn            desa            tari,0.0,netral
+42,tanyarlfes        space          safa            afi        nihaya         imroatus     waluh        kukus       kkn          desa        tari,0.0,netral
+43,tanyarlfes        justice        audrey          kkn        desa           tari,2.0,positif
+44,tanyarlfes        kkn            desa            tari,0.0,netral
+45,safa              maknya         hwang           renjun     yg             spill        si           chatime     yg           suka        ngomong      british     lupa         nama,0.0,netral
+46,kkn               desa           tari            teaser     coming         soon         https        co          pq           kd          mmlh,0.0,netral
+47,tanyarlfes        wakil          hwang           renjun     na             jaemin       yg           dosen       kader        g           lk           r           imroatus     mahasiswa,0.0,netral
+48,lafilledhvver     astaghfirullah del             wgwgwgwggwgnyari          lagu         karna        udah        tau          kkn         desa         tari        wgwgwggw,0.0,netral
+49,kxchunga          astg           kkn             desa       tari           lot          bgt          otak        https        co          tchpqddr     w,0.0,netral
+50,tanyarlfes        waluh          kukus           safa       vs             na           jaemin       hwang       renjun       kkn         desa         tari,0.0,netral
+51,kkn               desa           tari            legend     sih            anak         yg           basic       nya          ga          suka         horor       baca         sampe,0.0,netral
+52,moviemenfes       kemaren        desa            tari       film           baik         tayang       pas         lebaran      jt          tonton       cuy         harga        tiket,0.0,netral
+53,tanyarlfes        kkn            desa            tari       sampe          jd           film         ter         gegerrr,0.0,netral
+54,dika              ceanix         tanyarlfes      jujur      rem            pocong       ririn        drpd        kkn          desa        tari         gw          mean         kyk,0.0,netral
+55,imroatus          safa           space           malu       mf             tali         tambang      ava         mark         ijo         tosca        afi         nihaya       sabrina,0.0,netral
+56,tanyarlfes        naren          golkar          tukang     bungkus        kkn          desa         tari        trit         horor       famous       yg          malu         dinding,2.0,positif
+57,tanyarlfes        kkn            desa            tari       sii            kalo         gw,0.0,netral
+58,tanyarlfes        kkn            desa            tari,0.0,netral
+59,tanyarlfes        thread         kkn             desa       tari,0.0,netral
+60,tanyarlfes        audrey         safa            waluh      kukus          kkn          desa         tari        chatime      gilang      bungkus      cowo        kacamata     dsb,0.0,netral
+61,rubyjeonn         iya            ih              kyk        kkn            desa         tari         trus        skrg         sewu        dino         dll,0.0,netral
+62,moviemenfes       film           negeri          pesimis    gitu           coba         liat         sukses      kkn          desa        tari         wkwk,0.0,netral
+63,tanyarlfes        ch             time            afi        natalie        space        safa         waluh       kukus        p           c            ng          ririn        kkn,0.0,netral
+64,skinnyfabs        digeeembok     afi             nihaya     kkn            desa         tari         arawinda    trs          lg          ya,0.0,netral
+65,tanyarlfes        thread         kkn             desa       tari,0.0,netral
+66,tanyarlfes        anak           twitter         dah        alami          mbak         bibit        unggul      amrazing     vs          sabrina      joko        anwar        circle,0.0,netral
+67,hahahahha         thread         kkn             desa       tari           gak          ya           gue         emg          baca        dluan        rame        trs          tbtb,0.0,netral
+68,tanyarlfes        waluh          kukus           kkn        desa           tari,0.0,netral
+69,tanyarlfes        wot            wleowleo        orang      tua            sakit        gilaaaa      manusia     beneran      ga          otak         kalo        keinget      suka,0.0,netral
+70,intoaura          desa           tari,0.0,netral
+71,thread            simpleman      kkn             desa       tari           mcm          nk           dgn         abdi         setan       def          gon         na           watch,0.0,netral
+72,coba              niat           mo              bikin      universe       aksen        skript       main        bahasa       jawanya     dibenerin    minimal     kek          tisa,0.0,netral
+73,kkn               desa           tari            takberani  nak            tengok       baru,0.0,netral
+74,malam             tengok         kkn             desa       tari           housemate    lepastu      dedua       jerit        hahaha      babiii       hateee      watching     movies,3.0,positif
+75,boysplanetarea    bagus          nder            bagus      evil           editing      pake         lagu        kkn          desa        tari,-3.0,negatif
+76,bayuisa           moviemenfes moro               maleh      desone         koyo         kkn          desa        tari         enek        demit        e           wkwkwkwkwk,0.0,netral
+77,thmdn             kkn            desa            tari       tengok,0.0,netral
+78,jekeygemes        habisnontonfilmseng            nulis      kuwi           ki           penulise     podo        karo         tulis       kkn          desa        tari         mba,0.0,netral
+79,producer          author         kkn             desa       tari           ok           next,0.0,netral
+80,kkn               desa           tari            takde      la             seram        meh          opinion     tengok       semata      sbb          viral       n            org,0.0,netral
+81,unmagnetism       kek            lokasi          kkn        desa           tari,0.0,netral
+82,ancrit            gue            ga              nyimpen    lg             foto         tiket        nonton      kkn          desa        tari,0.0,netral
+83,takut             citer          mistik          nak        tonton         tu           idok         ler         baca         suka        read         story       already      desa,0.0,netral
+84,kkn               desa           tari            sewu       dino           adaptasi     thread       akaun       twitter      simpleman   simpleman    aku         sewu         dino,0.0,netral
+85,filem             horror         baharu          garap      md             pictures     terbit       kkn         desa         tari        sambut       kkn         buat         minat,0.0,netral
+86,kena              tengok         ni              studio     tulis          kkn          desa         tari,0.0,netral
+87,geovanrv          twitter        gpp             army       masuk          dunia        kaya         kkn         desa         tari,0.0,netral
+88,thundeirbolts     watchmenid     yg              baca       isi            kyk          baca         cerita      kkn          desa        tari         ya          sebenernya   ajar,0.0,netral
+89,meme              indonesia      pln             desa       tari           pln          id           https       co           byg         sjsv         https       co           nqsqfqbqyj,0.0,netral
+90,kalah             kkn            desa            tari,0.0,netral
+91,kagebuncin        kek            kkn             desa       tari           jam,0.0,netral
+92,gewlud            ya             lu              yg         surup          desa         tari         doang       ajg,0.0,netral
+93,sylthelords       gue            gk              kkn        desa           tari         ya           ajg,0.0,netral
+94,sewudino          rating         menit           lebaran    april          longest      kimo         movie       ever         helm        lesson       learned     kkn          desa,0.0,netral
+95,teman             udah           nonton          film       kkn            desa         tari         mohon       bantu        isi         kuesioner    teliti      ya           https,0.0,netral
+96,apathoni          aglioelio      help            cinta      ayat           ayat         cinta        tenggelam   van          der         wijck        abdi        setan        kkn,2.0,positif
+97,malam             layan          la              cerita     kkn            desa         tari         husband     penah        tengok      lgi,0.0,netral
+98,kkn               desa           tari            official   teaser         bioskop      https        co          gngzs        cg          k,0.0,netral
+99,kkn               desa           tari            official   trailer        bioskop      https        co          hhviulsflp,0.0,netral
+100,yg                syukur         ga              nonton     bioskop        aja          deh          ya          nih          sri         asih         ghost       hunter       perempuan,-1.0,negatif
+101,kmrn              sempet         nonton          ivana      kkn            desa         tari         perempuan   gaun         merah       wkwk,0.0,netral
+102,mekimasan         lagu           kkn             desa       tari,0.0,netral
+103,ni                kat            filem           kkn        desa           tari         seriau       fikir       filem        tu          dasar        kisah,0.0,netral
+104,kkn               desa           tari            tuu        haha,3.0,positif
+105,airil             main           yer             tari       canggur        desa         https        co          cqwbczugc,0.0,netral
+106,moviemenfes       kkn            desa            tari,0.0,netral
+107,wahiwuutt         irfansatria    kkn             desa       tari           cite         ni,0.0,netral
+108,goodrecom         limited        edition         gan        edisi          kkn          desa         tari        cuman        dunia,-1.0,negatif
+109,ni                desa           tari            ahahahaha,0.0,netral
+110,bcotieaja         moviemenfes emang              bagus      ajasih         ga           overrated    overrated   tu           kkn         desa         tari,0.0,netral
+111,movie             desa           tari            ni         stress         tengok       kampung      semak       samun        gitu,-1.0,negatif
+112,,0.0,netral
+113,mcm               movie          desa           tari          tu                 ka,0.0,netral
+114,ni                mcm            citer          kkn           desa               tari,0.0,netral
+115,irfansatria       datukhensem    ni             cerita        kkn                desa       tari,0.0,netral
+116,irfansatria       datukhensem    cerita         kkn           desa               tari       ni                kopi         pahit          manis         sbb            jin                yg            target,0.0,netral
+117,irfansatria       datukhensem    cerita         kkn           desa               tari       tu                ya,0.0,netral
+118,ni                filem          kkn            desa          tari               plot,0.0,netral
+119,tanyakanrl        klau           sepupu         gk            bwa                truck      si                tpi          pas            sepeda        arah          pulang              abis          kerja,0.0,netral
+120,contoh            film           kkn            desa          tari               raup       juta              tonton       kumham         kalsel        lpnkarangintankumhamkalsel        faisolali     lpnkarangintan,0.0,netral
+121,kkn               desa           tari           sewu          dino               tarik      baca              biar         orang          theatre       mindnya       ketimbang           film,0.0,netral
+122,ingat             gabung         twitter        ya            harijaditwittersayakarna      alas              pas          jaman          covid         main          medsos              apa           udh,-1.0,negatif
+123,skincare          bagus          underrated     utas          jisoo              wild       kkn               desa         tari           bekas         iphone        agustus             jungkookday   https,0.0,netral
+124,tk                il             azthraal       lupa          desa               tari       mangoetzzz,0.0,netral
+125,kkn               desa           tari           uncut         https              co         pwmctl            e            https          co            hm             asv                cye,0.0,netral
+126,undipmenfess      pas            patung         tutup         kain               putih      rem               nder         asa            kkn           desa           tari,0.0,netral
+127,capytown          fak            gak            takut         diceritain         kkn        desa              tari,0.0,netral
+128,ahh               shit           kkn            desa          tari               go,-4.0,negatif
+129,dhyntaa           sak            multiverse     ambk          kkn                desa       tari              iki,0.0,netral
+130,kkn               desa           tari           luwih         dowo               luwih      medeni            kisah        enam           mahasiswa     nur            widya              ayu           bima,0.0,netral
+131,somebody          date           morning        seggs         dinner             seggs      rough             seggs        soft           seggs         kitchen        seggs              shower        seggs,0.0,netral
+132,sumpah            baca           threadnya      aja           merinding          jir        tpi               penasaran    kek            gimana        adaptasi       film               kkn           desa,0.0,netral
+133,ndifann           iya            simple         man           kayak              kkn        desa              tari,0.0,netral
+134,yourlastya        kayak          kkn            desa          tari,0.0,netral
+135,tanyakanrl        jagain         kayak          nur           kkn                desa       tari              loh          jaga,0.0,netral
+136,official          teaser         ost            kkn           desa               tari       https             co           qgddupoyvs,0.0,netral
+137,ost               kkn            desa           tari          official           teaser     https             co           lpiagf     knd,0.0,netral
+138,fwbess            hmu            soc            hereee,0.0,netral
+139,fwbess            soc,0.0,netral
+140,f                 solo           yg             bom           masjid            syaikh      zayed             https        co             ibhjonsfao,0.0,netral
+141,ni                kkn            desa           tari          ririastria,0.0,netral
+142,kkn               desa          tari            parah         sih               guna        jawanya           pake         jawa           jawa          doang          tempat             gak           pas,0.0,netral
+143,jalan             kkn           desa            tari          https             co          obgtueckjd,0.0,netral
+144,suholee           gar           log             garem         oren              onlyvvan    habisnontonfilm   kkn          desa           tari          karakter       orang              desa          orang,0.0,netral
+145,thejurgenholic    lagu          remix           kkn           desa              tari        gen,0.0,netral
+146,justmeorme        setia         tunggu          sewu          dino              moga        patah             harap        kayak          desa          tari,0.0,netral
+147,ipunk             suka          cerita          kkn           desa              tari        daerah            bwi          tp             challenging   jg             kalo               rumah         spt,0.0,netral
+148,populer           sinopsis      sewu            dino          seram             kkn         desa              tari         https          co            hyqogbjdt,0.0,netral
+149,detikcom          syuting       desa            tari,0.0,netral
+150,ruanglucuuu       kkn           desa            tari,0.0,netral
+151,oalaah            gin           kkn             desa          tari,0.0,netral
+152,narcissons        preman        desa            tari,0.0,netral
+153,moviemenfes       nonton        kkn             desa          tari              geli        cok               gada         proper         riset         gitu           basa               jawa          aja,0.0,netral
+154,akubinaan         saturnalready kkn             desa          tari              wkwkkw,0.0,netral
+155,harga             tiket         bioskop         kkn           desa              tari,0.0,netral
+156,dapetin           tiket         sewu            dino          ga                dapetin     kkn               desa         tari,0.0,netral
+157,jogmfs            pas           jaman           kkn           desa              tari,0.0,netral
+158,film              based         trailer         sm            film              kkn         desa              tari         kesan          kalo          film           dasar              pov           org,0.0,netral
+159,zareihan          notahappysaladmoviemenfes org               org               mikir       bahasa            indonesia    dimedokin      bahasa        jawa           timur              refer         kkn,0.0,netral
+160,alfanrahadi       lewatsfilm    habisnontonfilm ulang         resah             orang       jawa              asli         pas            nonton        kkn            desa               tari          kek,0.0,netral
+161,lg                ulang         salah           kkn           desa              tari,0.0,netral
+162,thn               mlh           hrs             tunggu        minggu            slps        film              lebaran      utk            tonton        film           indonesia          krn           bioskop,0.0,netral
+163,film              kalah         bagus           kkn           desa              tari        https             co           whpanm         z,0.0,netral
+164,jokiin            teks          kritik          film          kkn               desa        tari              due          minggu         zonaba        zonauang,0.0,netral
+165,ngeri             film          kkn             desa          tari              sinopsis    sewu              dino         tayang         lebaran       kkndesapenarifilmkkndidesapenarisinopsis        sewudino,0.0,netral
+166,badarawuhi        gak           ikut            kutip         film              kkn         desa              tari         https          co            eronygrpdc,0.0,netral
+167,rekor             film          kkn             tembus        jt                tayang      malam             https        co             eronygrpdc,0.0,netral
+168,film              kkn           film            laris         industri          film        ambil             genre        horor          https         co             nyioqarhhl,0.0,netral
+169,kisah             kkn           desa            tari          ambil             kisah       nyata             mahasiswa    kkn            desa          tonton         https              co            nyioqarhhl,0.0,netral
+170,watching          kkn           desa            tari,0.0,netral
+171,maksimal          film          kualitas        kkn           desa              tari        baik,0.0,netral
+172,usul              badarawuhi    film            kkn           desa              tari        doyan             wik          wik            penasran      film           tonton             https         co,0.0,netral
+173,movie             kkn           desa            tari          full              movie       https             co           nyioqarhhl     lupa          like           share              follow,3.0,positif
+174,moviemenfes       tuju          sih             minder        aja               emang       kkn               desa         tari           tonton        ngalahin       dr                 strange       indo,-1.0,negatif
+175,swiffties         heyzax        tytyd           nya           uncut             cut         cut               kek          kkn            desa          tari,-2.0,negatif
+176,diosetta          jsd           tarik           horror        misteri           hidup       dr                kkn          desa           tari          sewu           dino,0.0,netral
+177,h                 moviemenfes bau               bau           rame              kayak       kkn               desa         tari,0.0,netral
+178,moviemenfes       gw            nonton          film          yg                kemaren     aja               kkn          desa           tari          gedeg          banget             dialog        nya,0.0,netral
+179,moviemenfes       jaman         kkn             desa          tari              dpt         slot              film         mcu            lupa          dr             strange            apa           cuman,-1.0,negatif
+180,moviemenfes       kkn           desa            tari          ga                tau         coba              simpleman    boro           boro          inget          bro                simpleman     butuh,0.0,netral
+181,kkn               desa          tari            wkwk,0.0,netral
+182,bahasa            jawa          kkn             desa          tari              maksa       klo               emang        setting        nya           jawa           timur              gpp           sih,0.0,netral
+183,habisnontonfilm   kemarin       kkn             desa          tari              bahasa      luwes             tonton       netizen        hak           harap          adaptasi,0.0,netral
+184,beputr            moviemenfes komen             kkn           desa              tari        koq               lurah        pake           bahasa        jawa           ngoko              yo            ora,0.0,netral
+185,alas              mergo         ga              ndelok        versi             film        e                 kkn          desa           tari          ndelok         trailer            e             ae,-1.0,negatif
+186,habisnontonfilm   gak           nonton          kecewa        kkn               desa        tari              sok          gaya           sok           drama          horor              gada,0.0,netral
+187,manoj             punjabi       sewu            dino          milik             potensi     kkn               desa         tari           https         co             apqzhtyq           q,0.0,netral
+188,kemarin           rewatch       kkn             desa          tari              adek        trs               scene        pas            anton         ngasih         tau                nur           bawah,0.0,netral
+189,moviemenfes       gue           rasain          nonton        kkn               desa        tari              sebel        bgt            anjir         nyampur        bahasa,0.0,netral
+190,habisnontonfilm   yups          aneh            kek           kkn               desa        tari              kemaren      banget         dialog        yg             aneh               bilang        gimanapun,0.0,netral
+191,habisnontonfilm   kemarin       aja             yg            kkn               desa        tari              bahasa       jawanya        ganggu        maksa          banget             compare       series,0.0,netral
+192,manoj             punjabi       sewu            dino          potensi           kkn         desa              tari         https          co            yls            hue                u,0.0,netral
+193,moviemenfes       lupa          ajar            film          kkn               desa        tari              hadehh,0.0,netral
+194,moviemenfes       blm           minat           nonton        film              adaptasi    tweet             kaca         dr             kkn           desa           tari,0.0,netral
+195,manoj             punjabi       film            sewu          dino              seram       banding           kkn          desa           tari          https          co                 nayo          jgvdk,0.0,netral
+196,putripurwaa       desa          tari,0.0,netral
+197,literallysadboi   cookikawa     moviemenfes simplem           emg               sadar       kalo              simplem      orang          marketing     thread         dijadiin            komersil     kkn,0.0,netral
+198,yg                industri      film            indo          saing             lho         bukti             lebaran      kkn            desa          tari           saing               keras        dr,0.0,netral
+199,misteri           hutan         karet           part          https             co          jgweosnuk         bacahorror   ceritahorror   horror        threadhorror   ceritahorrorpendaki misteri      ceritamisteri,0.0,netral
+200,lilianaaster      sewu          dino            kisah         yg                kyk         kkn               desa         tari           li,0.0,netral
+201,udah              nonton        kkn             desa          tari              jumpscarenyaga                guys         sender         suka          jantung,0.0,netral
+202,habisnontonfilm   kkn           desa            tari          emang             jelek       bahasa            jawanya      film           yg            ga             baik               salah         orang,0.0,netral
+203,moviemenfes       kemaren       gua             nonton        kkn               desa        tari              kagak        subtitle       indonya       anjir          pas                bahasa        jawa,0.0,netral
+204,manoj             punjabi       bawa            main          kkn               desa        tari              promosi      kota           negara        https          co                 cmpbq         ako,0.0,netral
+205,rill              srimulat      keramat         doang         bahasa            jawanya     acceptable        telinga      wkwkwk         ga            sih            nonton             film          indo,1.0,positif
+206,moviemenfes       yap           sepakat         tangkep       nonton            trailer     film              genre        kkn            desa          tari           heran,0.0,netral
+207,habisnontonfilm   ngambil       thread          twitternya    si                simple      man               kaya         kkn            desa          tari,0.0,netral
+208,moviemenfes       riil          kalo            guna          bahasa            orang       yg                tua          ga             cocok         bisa           bilang             suwun         mbah,0.0,netral
+209,ugm               fess          kkn             desa          tari,0.0,netral
+210,jokiin            teks          kritik          film          kkn               desa        tari              due          minggu         zonaba        zonauang,0.0,netral
+211,ugm               fess          kkn             desa          tari,0.0,netral
+212,ugm               fess           kkn            desa          tari,0.0,netral
+213,worldtiputipu     desa           tari           aj            tutup             mata,0.0,netral
+214,aghniny           haque          main           film          kajiman           iblis       kejam             tagih        janji          ulang         sukses         kkn                desa          tari,0.0,netral
+215,seram             kkn            desa           tari          sinopsis          film        sewu              dino         tayang         lebaran       ti             https              co            tvyomxh,0.0,netral
+216,film              kalah          bagus          kkn           desa              tari        https             co           whpanm         z,0.0,netral
+217,ih                pgn            baca           threadnyaaa   tuh               udah        baca              pas          cuman          kek           skip           krn                suka          cerita,0.0,netral
+218,kapok             nonton         kkn            desa          tari              bhs         jawanya           ga           mantep,0.0,netral
+219,badarawuhi        gak            ikut           kutip         film              kkn         desa              tari         https          co            eronygrpdc,0.0,netral
+220,capriccinos       horor          kayak          kkn           desa              tari        ya,0.0,netral
+221,rey               listic         jaya           jaya          jaya              yah         couple            kkn          desa           tari          irl            ayu                bima,0.0,netral
+222,rekor             film           kkn            tembus        jt                tayang      malam             https        co             eronygrpdc,0.0,netral
+223,film              kkn            desa           tari          bahasa            jawanya     maksa             banget       liat           trailer       sewu           dino               bahasa        campur,0.0,netral
+224,,0.0,netral
+225,film            kkn             film         laris       industri    film         ambil       genre         horor        https        co           nyioqarhhl,0.0,netral
+226,moviemenfes     kkn             desa         tari        didmn       adegan       si          nur           yg           mandi        trus         ganggu         si                 doi,0.0,netral
+227,kisah           kkn             desa         tari        ambil       kisah        nyata       mahasiswa     kkn          desa         tonton       https          co                 nyioqarhhl,0.0,netral
+228,jokoanwar       horor           drpd         kkn         desa        tari,0.0,netral
+229,usul            badarawuhi      film         kkn         desa        tari         doyan       wik           wik,0.0,netral
+230,mnurhanif       sosmedkeras     mimpiin      uler        gegara      abis         nonton      film          anaconda     kkn          desa         tari,0.0,netral
+231,movie           kkn             desa         tari        full        movie        https       co            nyioqarhhl   lupa         like         share          follow,3.0,positif
+232,freshteaaaa     prokernya       ntar         gak         rem         kek          desa        tari          nder,0.0,netral
+233,film            indo            please       kalo        judul       jawa         tema        jawa          yall         hire         aktor        jawa           asli               kkn,1.0,positif
+234,ajar            kritik          film         kkn         desa        tari,0.0,netral
+235,kkn             desa            tari         bener       gajelas     dialog       maksa       pol           pake         bahasa       jawa         wkwk,0.0,netral
+236,kayane          nonton          bioskop      kuping      geli        ngrungokne   bahasa      mbok          wis          mending      cari         per            film               lokal,0.0,netral
+237,kadyasandya     asli            nonton       kkn         desa        tari         kemarin     protes        ginian       temenku,0.0,netral
+238,kiyongbrb       singkat         kkn          desa        tari,0.0,netral
+239,deuteronomyth kksn              desa         tari,0.0,netral
+240,ketimbang       kkn             desa         tari        tarik       nonton       sewu        dino          si,0.0,netral
+241,ulang           salah           yg           kkn         desa        tari         skrip       dialog        sis          boso         jowo         kluthuk        ndak               gene,0.0,netral
+242,moviemenfes     kkn             desa         tari,0.0,netral
+243,kkn             desa            tari         sm          squid       game         series      sih           tp           ttp          yaa          gitu           ga                 niat,0.0,netral
+244,kkn             desa            tari,0.0,netral
+245,kkn             desa            tari,0.0,netral
+246,jujur           ngerasa         nggak        rem         rem         kkn          desa        tari          sih          versi        film,0.0,netral
+247,kadyasandya     ga              kaget        krn         md          wkwkwk       kkn         desa          tari         bahasa       gitu,0.0,netral
+248,kadyasandya     salah           sijine       alas        bikin       ndak         kuat        dok           kkn          desa         tari,-1.0,negatif
+249,ndenger         bahasa          jawa         remix       bahasa      indonesia    kalo        kalimat       oke          kalo         keburu       males          kayak              orang,0.0,netral
+250,liat            trailer         sewu         dino        part        yg           gigit       kek           evil         dead         versi        lokal          lihat              bagus,-6.0,negatif
+251,sukakarinaaa    kung            fu           panda       desa        tari,0.0,netral
+252,inget           gue             farimurti    ngetawain   bahasa      jawanya      per         per           warga        lokal        kkn          desa           tari               yg,0.0,netral
+253,ismiismamasmuk eh               cerita       horror      yg          viral        kayak       kkn           desa         tari,0.0,netral
+254,harga           tiket           bioskop      kkn         desa        tari,0.0,netral
+255,dipulpong       rem             sii          dipp        wkwkwk      ingetnya     pas         cuplik        film       kkn            desa         tari           trailer            skrg,0.0,netral
+256,misteri         hutan           karet        part        https       co           c           ejjmmkos      bacahorror ceritahorror   horror       threadhorror   ceritahorrorpendakimisteri,0.0,netral
+257,kkn             desa            tari         official    trailer     april        bioskop     https         co         ljswj,0.0,netral
+258,kadyasandya     pas             kkn          desa        tari        nggateli     te          cok,0.0,netral
+259,gokil           film            cerita       simpleman   udah        baca         threadnya   sih           ga           wow          kkn          desa           tari               kemaren,4.0,positif
+260,shoguneuthymia kkn              desa         tari        bang,0.0,netral
+261,kkn             desa            tari         bibo        pasang      koridor      tanggal     merah         well         fakta        mei          rerata         okupansi           kkn,0.0,netral
+262,koreksi         update          koridor      rilis       lebaran     jalur        mulus       bentang       film         indonesia    saing        hollywood      blockbuster        koridor,3.0,positif
+263,kadyasandya     yokann          mbatinn      pas         kkn         desa         tari        pingin        sunat        iku          ilat         e,0.0,netral
+264,ulyzulfaa       tanyakanrl      baca         ga          kaya        pas          baca        kkn           desa         tari         rem          bingung        iya                wkwk,0.0,netral
+265,gua             baca            cerita       simple      man         merindingg   puooll      ngalah        kkn          desa         tari,0.0,netral
+266,trailer         sewu            dino         yg          yg          kkn          desa        tari          beda         yh           suka         yg             kkn                desa,0.0,netral
+267,kemaren         giat            nonton       kkn         desa        tari         kamis       malam         jumat        yg           ngejak       gw             ga                 temen,0.0,netral
+268,baca            threadnya       turut        sewu        dino        rem          ampun       ngalahin      kkn          desa         tari         jdi            fav                baca,0.0,netral
+269,habisnontonfilm rem             banding      kkn         desa        tari         sih         kkn           udh          rem          freaky       bgt            sih                trailer,0.0,netral
+270,kimetsu         yaiba           desa         tari,0.0,netral
+271,bagi            film            kkn          desa        tari        extended     movie       btw           nonton       bareng,0.0,netral
+272,moga            tydack          kecewa       kkn         desa        tari         hadehhh     bgt,0.0,netral
+273,jeongjeffers    yg              bikin        thread      desa        tari         gasih,0.0,netral
+274,lepas           kkn             desa         tari        lesssgoo,0.0,netral
+275,tw              horor           hantu        blm         sempet      baca         thread      sewu          dino         nya          sampe        selesai        kalo               nonton,0.0,netral
+276,film            kalah           bagus        kkn         desa        tari         https       co            whpanm       z,0.0,netral
+277,bbayi           seru            kayak        desa        tari        tp           rem         wkwkwk        udah         film,0.0,netral
+278,badarawuhi      gak             ikut         kutip       film        kkn          desa        tari          https        co           eronygrpdc,0.0,netral
+279,habisnontonfilm kemarin         udah         liat        sequel      film         kkn         desa          tari         extended     movie        emang          ngeri              sih,0.0,netral
+280,kucingsukamakan yeah            usually      give        type        stories      benefit     doubt         one          sit          right        feels          like               trying,4.0,positif
+281,rekor           film            kkn          tembus      jt          tayang       malam       https         co           eronygrpdc,0.0,netral
+282,film            kkn             film         laris       industri    film         ambil       genre         horor        https        co           nyioqarhhl,0.0,netral
+283,kaya              yg            layak        tonton      dr          yg           desa        tari,0.0,netral
+284,udah              baca          threadnya    tau         takut       banding      kkn         desa          tari,0.0,netral
+285,harimau           wilayah       garut        sih         maung       pulau        jawa        bahas         ular         nyi          blorong      badarawuhi     nagini             siluman,0.0,netral
+286,exodusuho         bagus         threadnya    lbh         bagus       dr           desa        tari,0.0,netral
+287,beuh              ngantuk       bgt          mana        survey      kkn          desa        tari          ngga         ding         rem          bgt            kering             gk,0.0,netral
+288,kisah             kkn           desa         tari        ambil       kisah        nyata       mahasiswa     kkn          desa         tonton       https          co                 nyioqarhhl,0.0,netral
+289,cinta             horor         wait         sewu        dino        thread       suka        sewu          dino         kkn          desa         tari           kimo               stamboel,0.0,netral
+290,abellcart         hekyie        tanyakanrl   si          sri         tinggal      jg          ya            brtanya      kisah        nyata        fiksi          sih                kyk,0.0,netral
+291,ah                trnyata       yg           mikir       sewu        dino         g           rem           lbh          merinding    wktu         baca           yg                 kkn,0.0,netral
+292,usul              badarawuhi    film         kkn         desa        tari         doyan       wik           wik          penasran     film         tonton         https              co,0.0,netral
+293,habisnontonfilm   potensial     threadnya    edan        tambah      didirect     kimo        sang          maestro      film         brutal       ya             moga               ga,-3.0,negatif
+294,movie             kkn           desa         tari        full        movie        https       co            nyioqarhhl   lupa         like         share          follow,3.0,positif
+295,https             co            uxwaxksttw,0.0,netral
+296,habisnontonfilm   kecewa        kkn          desa        tari        yg           asa         horor         baca         threadnya,0.0,netral
+297,senyumanx         moviemenfes   tekok        thread      twitter     maneh        gak         bedo          adoh         tekok        kkn          desa           tari,0.0,netral
+298,cikakohl          film          kkn          desa        tari        cerita       tegang      suasana       desa         seram        takut        hfn,0.0,netral
+299,cikakohl          kkn           desa         tari        seram       jalan        cerita      tarik         bosan        hfn,0.0,netral
+300,official          trailer       sewu         dino        udah        rilis        dichannel   youtube       md           pictures     trailer      simpul         kemungki           film,0.0,netral
+301,unmoodknow        kkn           desa         tari        die         kalo         lo          tau,-3.0,negatif
+302,cinecrib          bagus         kkn          desa        tari        tulis        cerita      rapi          runut        gak          kes          kaya           thread             visualisasi,0.0,netral
+303,sepngcheol        selfolconvo   desa         tari,0.0,netral
+304,misteri           hutan         karet        part        https       co           cpjxdpx     hk            bacahorror ceritahorror   horror       threadhorror   ceritahorrorpendakimisteri,0.0,netral
+305,kkn               desa          tari         https       co          ucx          kvhxyf,0.0,netral
+306,cikakohl          favourite     indonesian   movie       kkn         desa         tari        best          storyline    best         location     many           hfn,8.0,positif
+307,film              kalah         bagus        kkn         desa        tari         https       co            whpanm       z,0.0,netral
+308,badarawuhi        gak           ikut         kutip       film        kkn          desa        tari          https        co           eronygrpdc,0.0,netral
+309,jiaer             tnt           kmrn         yg          gw          ketemu       desa        tari,0.0,netral
+310,kisah             kkn           desa         tari        ambil       kisah        nyata       mahasiswa     kkn          desa         tonton       https          co                 nyioqar,0.0,netral
+311,cikakohl          film          fav          kkn         desa        tari         suka        film          adopsi       kisah        nyata        penasaran      jam                hfn,0.0,netral
+312,usul              badarawuhi    film         kkn         desa        tari         doyan       wik           wik          penasran     film         tonton         https              co,0.0,netral
+313,watchmenid        kkn           desa         tari,0.0,netral
+314,movie             kkn           desa         tari        full        movie        https       co            nyioqarhhl   lupa         like         share          follow,3.0,positif
+315,kkn               desa          tari         ya,0.0,netral
+316,asmikhae          wonder        use          term        desa        instead      kampung     like          kkn          desa         tari,2.0,positif
+317,renaldahanggar    comeback      kkn          desa        tari        dek,0.0,netral
+318,cikakohl          kkn           desa         tari        film        juta         tonton      film          karya        cinta        krn          semesta        dukung             viral,0.0,netral
+319,cikakohl          kkn           desa         tari        ga          tau          suka        banget        nih          film         film         favorit        sesuai             ekspektasi,0.0,netral
+320,whutcore          kyk           kkn          desa        tari,0.0,netral
+321,pppanteqqq        claudia       jasmine      put         sutradara   person       made        kkn           desa         tari         nefilwowfakta,0.0,netral
+322,cikakohl          film          kkn          desa        tari        gak          sih         film          pecah        pas          scene         widya         dikerubutin        dedemit,0.0,netral
+323,honsoolatnight    horor         kkn          desa        tari        rekomen      bangaat     nonton,0.0,netral
+324,moranxy           emang         si           desa        tari,0.0,netral
+325,cikakohl          hfn           kkn          desa        tari,0.0,netral
+326,cikakohl          kkn           desa         tari        sblm        tayang       udh         nonton        dluan        kerja        bi           skop           wktu               jd,0.0,netral
+327,fontnya           kkn           desa         tari        anjir,0.0,netral
+328,penghaluayang     inget         kkn          desa        tari,0.0,netral
+329,cumbu             tubuh         indah        sutradara   garin       nugroho      kisah       jala          hidup        juno         dewasa       tari           desa               jawa,0.0,netral
+330,taun              abis          liat         kkn         desa        tari         liat        curi          raden        saleh        aghniny      haque          peran              timpang,0.0,netral
+331,sixnema           kalo          alur         suka        abdi        setan        kalo        traditional   culturenya   relate       kalo         keramat        plot               twist,0.0,netral
+332,bf                rent          avail        skrng       diajakin    nonton       kkn         desa          tari         otp          gaa          ya,0.0,netral
+333,bangchankipas     bim           siram        desa        tari        kah,0.0,netral
+334,font              spidernya     kek          font        kkn         desa         tari        anjir         salfok     mulu           aing         wkwkwk,0.0,netral
+335,misteri           hutan         karet        part        https       co           qnq         ehebu         bacahorror ceritahorror   horror       threadhorror   ceritahorrorpendakimisteri,0.0,netral
+336,,0.0,netral
+337,misteri         hutan            karet         part          https         co           l            l            jl           xmw          bacahorror     ceritahorror   horror         threadhorror,0.0,netral
+338,misteri         hutan            karet         part          https         co           ook          ua           iiz          bacahorror   ceritahorror   horror         threadhorror   ceritahorrorpenda,0.0,netral
+339,wonurungji      laba             laba          desa          tari,0.0,netral
+340,peringkat       film             kkn           desa          tari          susul        dil          ayat         ayat         cinta        garis          biru           https          co,0.0,netral
+341,kucingsukamakan semenjak         desa          tari          mistis        kait         tinggal      kostan       ampe         bosen        dengernya      byk            yg             hoax,-2.0,negatif
+342,anj             font             nya           kyk           kkn           desa         tari         https        co           vzwmigrbyw,0.0,netral
+343,mikirnya        udah             mbak          suruh         bikin         konten       biar         yg           penasaran    hal          kkn            desa           tari           formula,0.0,netral
+344,moviemenfes     kkn              desa          tari          tembus        jt           tonton       loh          wow,4.0,positif
+345,ududul          kkn              desa          tari          aja           ampe         abis         aplg         pendek       wkwk,0.0,netral
+346,kkn             desa             tari          udah          tebak         yupss        film         rilis        sutradara    awi          suryadi        film           asal           thread,0.0,netral
+347,koreksi         tulis            tambah        ubah          nama          kandidat     nominasi     kategori     desain       poster       kkn            desa           tari           puja,0.0,netral
+348,jokoanwar       jagat            sinema        bumilangit    mecahin       rekor        film         kkn          desa         tari,0.0,netral
+349,semekamuu       cht              telegram      bang          nonton        kkn          desa         tari         ga           bang,0.0,netral
+350,film            kalah            bagus         kkn           desa          tari         https        co           whpanm       z,0.0,netral
+351,tanyarlfes      tari             desa          kkn,0.0,netral
+352,badarawuhi      gak              ikut          kutip         film          kkn          desa         tari         https        co           eronygrpdc,0.0,netral
+353,kisah           kkn              desa          tari          ambil         kisah        nyata        mahasiswa    kkn          desa         tonton         https          co             nyioqarhhl,0.0,netral
+354,,0.0,netral
+355,usul              badarawuhi     film          kkn           desa          tari         doyan        wik          wik          penasran     film           tonton         https          co,0.0,netral
+356,movie             kkn            desa          tari          full          movie        https        co           nyioqarhhl   lupa         like           share          follow,3.0,positif
+357,kkn               desa           tari          official      final         trailer      april        bioskop      https        co           pcpefolyba,0.0,netral
+358,kkn               desa           tari          gala          premiere      https        co           w            pki          lwrv,0.0,netral
+359,aku               baru           simpleman     kkn           desa          tari         https        co           je           aalmi        l,0.0,netral
+360,kkn               desa           tari          beda          thread        twitter      emang        pas          inti         cerita       tuh            kayak          langsung       nembak,0.0,netral
+361,kkn               desa           tari          adinda        thomas        asli         takut        https        co           dhlc,0.0,netral
+362,memesejutaumat    kkn            desa          tari          luwih         dowo         luwih        medeni,0.0,netral
+363,alas              simpleman      saran         nonton        kkn           desa         tari         https        co           sprbprda     x,-1.0,negatif
+364,jam               bahagia        gw            ganyampe      detik         gw           lgsg         duduk        sopan        tweet        org            yg             liat           hantu,0.0,netral
+365,testimonial       artis          kkn           desa          tari          https        co           scb          tuizf,0.0,netral
+366,inihujanbknrein   budaya         desa          tari,0.0,netral
+367,selamat           aktris         film          happy         salma         cek          toko         belah        laura        basuki       ig             naysilla       mirdad         kkn,3.0,positif
+368,selamat           aktris         film          laura         basuki        cek          toko         belah        adinia       wirasti      ig             lydia          kandou         kkn,0.0,netral
+369,selamat           aktor          aktris        film          gara          gara         waris        lolox        dicky        difie        ence           bagus          aci            resti,0.0,netral
+370,ngeri             cast           kkn           bereg         ular          kkn          desa         tari         md           talk         https          co             fckatq         nqt,0.0,netral
+371,kkn               desa           tari          calvin        jeremy        kuat         mandi        hari         https        co           j              mzspxkni,0.0,netral
+372,desa              tari           know          https         co            styw         eod,0.0,netral
+373,hrdbacot          azw            r             mantan        bupati        kabupaten    kkn          desa         tari         gagal        nyalon         goberno        r              jatim,0.0,netral
+374,kkn               desa           tari          calvin        jeremy        suka         bikin        konten       https        co           bfgfdrfxmw,0.0,netral
+375,devano            suka           banget        kkn           desa          tari         short        mdpictures   https        co           laauieccf,0.0,netral
+376,kkn               desa           tari          ayu           jatuh         motor        md           interview    megantara    aghniny      haque          https          co             wjbkfc,0.0,netral
+377,kkn               desa           tari          merinding     adinda        thomas       ganggu       makhluk      halus        syuting      kkn            https          co             r,0.0,netral
+378,film              kalah          bagus         kkn           desa          tari         https        co           whpanm       z,0.0,netral
+379,worth             tegang         testimonial   kkn           desa          tari         https        co           ce           tf           qm,2.0,positif
+380,harga             tiket          bioskop       kkn           desa          tari,0.0,netral
+381,kkn               desa           tari          anying        https         co           p            bfg          az,0.0,netral
+382,harga             tiket          kkn           desa          tari,0.0,netral
+383,badarawuhi        gak            ikut          kutip         film          kkn          desa         tari         https        co           eronygrpdc,0.0,netral
+384,kisah             kkn            desa          tari          ambil         kisah        nyata        mahasiswa    kkn          desa         tonton         https          co             nyioqarhhl,0.0,netral
+385,ungkap            wahyu          naksir        widya         kkn           desa         tari         game         cepat        https        co             c              xziv,0.0,netral
+386,usul              badarawuhi     film          kkn           desa          tari         doyan        wik          wik          penasran     film           tonton         https          co,0.0,netral
+387,tissa             biani          pesan         tunggu        lokasi        syuting      kkn          desa         tari         inside       md             e              https          co,0.0,netral
+388,movie             kkn            desa          tari          full          movie        https        co           nyioqarhhl   lupa         like           share          follow,3.0,positif
+389,nggak             terima         fajar         lawa          ambil         megantara    kkn          desa         tari         https        co             uj             illf,0.0,netral
+390,idextratime       mas            mas           sek           maen          film         kkn          desa         tari,0.0,netral
+391,dhat              sinden         kkn           kit           official      audio        kkn          desa         tari         https        co             vtsoqatbaz,0.0,netral
+392,kkn               desa           tari          halusinasi    tissa         biani        syuting      kkn          inside       md           e              https          co             auvvcm,0.0,netral
+393,kkn               desa           tari          tari          adegan        hajat        https        co           oddm         ezbfr,0.0,netral
+394,rumah             produksi       md            pictures      adaptasi      karya        simpleman    tulis        kkn          desa         tari           film           baru           judul,0.0,netral
+395,kkn               desa           tari          hasil         guncang       debar        jantung      tonton       https        co           qwqha          vgl,0.0,netral
+396,kkn               desa           tari          badarawuhi    ngomongin     cast         https        co           l            gvpgux,0.0,netral
+397,kkn               desa           tari          behind        scene         part         https        co           fk           cif          vy,0.0,netral
+398,merinding         gentayangin    umur          hidup         kkn           desa         tari         md           podcast      widya        podcast        https          co             csccchd,0.0,netral
+399,selamat           film           argantara     enggar        budiono       batara       goempar      kkn          desa         tari         ipung          rachmat        syaiful        like,2.0,positif
+400,selamat           film           vida          sylvia        ivanna        rico         marpaung     kkn          desa         tari         wencislaus     de             rozari         like,2.0,positif
+401,selamat           film           cek           toko          belah         alvin        hariz        ivanna       puja         mulani       kkn            desa           tari           andychah,0.0,netral
+402,selamat           film           retno         ratih         damayanti     kkn          desa         tari         angelia      florensia    like           share          dara           asvia,3.0,positif
+403,selamat           film           eba           sheba         ivanna        ucok         albasirun    kkn          desa         tari         irene          widya          arogyani       like,2.0,positif
+404,film              horor          indonesia     nonton        kkn           desa         tari         lebih        nonton       horor        barat          pas            nonton         tutup,0.0,netral
+405,selamat           film           ivanna        mattebox      visualworks   jagat        arwah        fakhiran     hakim        luqman       thalib         kkn            desa           tari,0.0,netral
+406,rusuh             banget         cast          kkn           gak           kalah        main         ular         tangga       kkn          desa           tari           https          co,0.0,netral
+407,selamat           film           nakorn        kositpalsal   suchada       supromin     trisno       ivanna       aria         prayogi      arif           budi           santoso        keramat,0.0,netral
+408,selamat           film           ricky         lionardi      kkn           desa         tari         ricky        lionardi     like         share          aria           prayogi        curi,3.0,positif
+409,putihnyatas       film           indonesia     horor         nonton        ya           kkn          desa         tari,0.0,netral
+410,xoazun            euppy          takut         banget        jennie        kkn          desa         tari         jd           tar,0.0,netral
+411,hakimlfc          isooo          cerita        thread        kkn           desa         tari         yoo          wkwk,0.0,netral
+412,kkn               desa           tari          nggak         nyangka       megantara    ganteng      ganteng      suka         julid        https          co             zjlyov         hl,0.0,netral
+413,kkn               desa           tari          behind        scene         part         https        co           u            lozcpu,0.0,netral
+414,tali              pocong         sumur         kkn           desa          tari         md           podcast      bima         https        co             fz             hs             x,0.0,netral
+415,kkn               desa           tari          horror        story         bacahorror   bacahorror   malam        gw           cerita       cerita         gw             spesial        gw,0.0,netral
+416,film              kalah          bagus         kkn           desa          tari         https        co           whpanm       z,0.0,netral
+417,kkn               desa           tari          behind        scene         photoshoot   https        co           nh           yt           evzf,0.0,netral
+418,kalo              bandinginnya   tonton        mah           kalahin       noh          kkn          desa         tari         simpleman    cinematic      universe,0.0,netral
+419,badarawuhi        gak            ikut          kutip         film          kkn          desa         tari         https        co           eronygrpdc,0.0,netral
+420,tangis            malam          anggota       kkn           kkn           desa         tari         md           podcast      badarawuhi   https          co             rqb            drzg,0.0,netral
+421,kit               dhat           official      lyric         video         ost          kkn          desa         tari         https        co             rgu            cv             ryp,0.0,netral
+422,kisah             kkn            desa          tari          ambil         kisah        nyata        mahasiswa    kkn          desa         tonton         https          co             nyioqarhhl,0.0,netral
+423,kkn               desa           tari          care          tissa         biani        picu         emosi        cast         https        co             jytsp          wwgh,2.0,positif
+424,usul              badarawuhi     film          kkn           desa          tari         doyan        wik          wik          penasran     film           tonton         https          co,0.0,netral
+425,,0.0,netral
+426,movie             kkn            desa          tari          full          movie        https        co           nyioqarhhl   lupa         like           share          follow,3.0,positif
+427,kkn               desa           tari          behind        scene         part         https        co           fudronyukx,0.0,netral
+428,moviemenfes       im             sorry         say           kkn           desa         tari         nyesel       bgt          nntn         bioskop        kl             ga             ajak,-1.0,negatif
+429,faizalukman       nyebrang       pulo          ya            negara        fyi          juli         ti           kkn          desa         tari           eh             salah          desa,0.0,netral
+430,kkn               desa           tari          calvin        jeremy        antem        lokasi       syuting      kkn          https        co             exde           b,0.0,netral
+431,benda             pusaka         desa          misterius     kkn           desa         tari         md           podcast      calvin       jeremy         https          co             h,0.0,netral
+432,aldapstsr         per            utama         wanita        kkn           desa         tari,0.0,netral
+433,kkn               desa           tari          sesajen       tabur         lokasi       syuting      kkn          https        co           epqau          paau,0.0,netral
+434,priskilaworo      ti             lebaran       nonton        teh           yuuuk        mudik        kkn          desa         tari,0.0,netral
+435,lovez             ne             kkn           desa          tari,0.0,netral
+436,kkn               desa           tari          nonton        bareng        warga        desa         tari         https        co           f              rzg            sus,0.0,netral
+437,moviemenfes       nonton         aja           kkn           desa          tari         wkwkwk,0.0,netral
+438,kkn               desa           tari          momen         syuting       part         https        co           buaib        udej,0.0,netral
+439,ipb               menfess        baur          masyarakat    apatis        warga        dont         larang       kyk          film         kkn            desa           tari           ngejalanin,0.0,netral
+440,kkn               desa           tari          bioskop       bisik         yayasan      mata         hati         https        co           nc             tfmupsm,0.0,netral
+441,kkn               desa           tari          luwih         dowo          luwih        medeni       https        co           phxbiszune,0.0,netral
+442,tvonenews         kayak          survey        nya           desa          kkn          sang         tari         dadak        atas         angin          gin,0.0,netral
+443,film              kalah          bagus         kkn           desa          tari         https        co           whpanm       z,0.0,netral
+444,badarawuhi        gak            ikut          kutip         film          kkn          desa         tari         https        co           eronygrpdc,0.0,netral
+445,kisah             kkn            desa          tari          ambil         kisah        nyata        mahasiswa    kkn          desa         tonton         https          co             nyioqarhhl,0.0,netral
+446,usul              badarawuhi     film          kkn           desa          tari         doyan        wik          wik          penasran     film           tonton         https          co,0.0,netral
+447,movie             kkn            desa          tari          full          movie        https        co           nyioqarhhl   lupa         like           share          follow,3.0,positif
+448,horror            story          kkn           desa          tari          versi        nur          https        co           l            yt             oyxqj          https          co,0.0,netral
+449,cerita            horor          kkn           desa          tari          versi        widya        https        co           hlrpj        vu             https          co             wtizhxg,0.0,netral
+450,,0.0,netral
+451,sewu              dino           tulis           bestseller   kkn        desa         tari         simpleman    kisah          klenik       tanah          jawa               kirim        gerogot,0.0,netral
+452,kkn               desa           tari            kisah        gempar     dunia        maya         kkn          desa           tari         cerita         lembar             tulis        rinci,0.0,netral
+453,blacclune         kkn            desa            tari         isi        wleowleo     setan        uler,0.0,netral
+454,literarybase      inget          belangguan      inget        scene      kkn          desa         tari         kampung        em           jagung         jawa               horor        beda,0.0,netral
+455,whutcore          desa           tari            ga,0.0,netral
+456,autumntist        kayak          kkn             desa         tari,0.0,netral
+457,batas             danilla        ost             kkn          desa       tari         official     audio        https          co           dfxr           cofp,0.0,netral
+458,muter             desa           hhnya           putar        warga      bawa         sesajen      banck        ladang         putar        rumah          kades               tabur       cendol,0.0,netral
+459,tari              mentas         tari            barong       tari       keris        panggung     pemaksan     barong         tegal        tamu           desa                batubulan   kabupaten,0.0,netral
+460,misteri           hutan          karet           part         https      co           prxfalyank   bacahorror   ceritahorror   horror       threadhorror   ceritahorrorpendaki misteri     ceritamisteri,0.0,netral
+461,treasuremenfess   horror         kkn             desa         tari       sih          kata,0.0,netral
+462,moohd             ilham          gw              harap        bgt        vibes        kayak        iklan        gitu           yg           tari           piring             desa,0.0,netral
+463,mana              nonton         film            kkn          desa       tari         legal        https        co             wnlcpolpvl,1.0,positif
+464,film              kkn            desa            tari         ajar       nakal        karepmu      yo           ojo            trus         awur           bangsaaatttt,0.0,netral
+465,moohd             ilham          wirgoen         ngeliatnya   kayak      iklan        kkn          desa         tari,0.0,netral
+466,film              kalah          bagus           kkn          desa       tari         https        co           whpanm         z,0.0,netral
+467,seola             webs           desa            tari,0.0,netral
+468,badarawuhi        gak            ikut            kutip        film       kkn          desa         tari         https          co           eronygrpdc,0.0,netral
+469,kkn               desa           tari            behind       scene      full         version      https        co             r            huzohsh,0.0,netral
+470,kisah             kkn            desa            tari         ambil      kisah        nyata        mahasiswa    kkn            desa         tonton         https              co           nyioqarhhl,0.0,netral
+471,usul              badarawuhi     film            kkn          desa       tari         doyan        wik          wik            penasran     film           tonton             https        co,0.0,netral
+472,edisi             iseng          bikin           ilustrasi    ayu        film         kkn          desa         tari           kkndesapenariizin           share              ya           om,1.0,positif
+473,movie             kkn            desa            tari         full       movie        https        co           nyioqarhhl     lupa         like           share              follow,3.0,positif
+474,kemungki          nasib          kaya            si           yg         mati         kkn          desa         tari           ga           sih            tp                 kl           gt,0.0,netral
+475,nonton            teluh          darah           episode      jd         emang        dr           episode      lg             ceritain     bisnis         yg                 banyuwangi   pas,0.0,netral
+476,bener             ya             kkn             desa         tari       banyuwangi,0.0,netral
+477,kkn               desa           tari,0.0,netral
+478,kkn               desa           tari            pamit        https      co           xwp          c            gx,0.0,netral
+479,askrlfess         thread         bikin           kek          emang      biar         viral        ti           kalo           film         laris          kaya               desa         tari,0.0,netral
+480,askrlfess         ak             dr              g            suka       baca         ginian       yg           viral          kyk          kkn            desa               tari         jg,0.0,netral
+481,sadar             ending         keramat         kayak        kkn        desa         tari         ya           ya             gw           nonton         kkn                sih          kampret,0.0,netral
+482,revel             baby           diketawain      kkn          desa       tari         wkwk,0.0,netral
+483,misteri           hutan          karet           part         https      co           ndkuvimpct   bacahorror   ceritahorror   horror       threadhorror   ceritahorrorpendaki misteri     ceritamisteri,0.0,netral
+484,kkn               desa           tari            thread       jadi       film         duduk        film         horor          indonesia    laris          data                oktober     kkn,0.0,netral
+485,hopanacea         gatau          knp             tweet        sbnrnya    innocent     bgt          tp           w              lngsung      keinget        kkn                 desa        tari,0.0,netral
+486,bochug            yoongi         yourfriend      notyurnem    potat      ps           tanyakanrl   citra        prima          tp           maiia          channelnya          maiia       true,2.0,positif
+487,moviemenfes       kkn            desa            tari         kayak      sinetron     azab         dijadiin     movie,0.0,netral
+488,pagi              mimpi          brian           pacar        iu         miror        selfie       kosan        brian          pake         seragam        gue                gak          terima,0.0,netral
+489,film              kalah          bagus           kkn          desa       tari         https        co           whpanm         z,0.0,netral
+490,tari              tari           desa            tari         maju       prubential   illupsion,0.0,netral
+491,badarawuhi        gak            ikut            kutip        film       kkn          desa         tari         https          co           eronygrpdc,0.0,netral
+492,kkn               desa           tari            terbit       aop,0.0,netral
+493,kisah             kkn            desa            tari         ambil      kisah        nyata        mahasiswa    kkn            desa         tonton         https              co           nyioqarhhl,0.0,netral
+494,usul              badarawuhi     film            kkn          desa       tari         doyan        wik          wik            penasran     film           tonton             https        co,0.0,netral
+495,movie             kkn            desa            tari         full       movie        https        co           nyioqarhhl     lupa         like           share              follow,3.0,positif
+496,wkwkkwwk          untung         gak             kkn          desa       tari         yaak,0.0,netral
+497,selesai           nonton         kkn             desa         tari       ekspektasi,0.0,netral
+498,tbtb              w              kangen          per          utama      kkn          desa         tari         willy          apakabar     yaa            hallo              maw          beli,0.0,netral
+499,pok               ameame         sbyfess         coba         desa       tari         si,0.0,netral
+500,moviemenfes       kkn            desa            tari,0.0,netral
+501,baca              cerita         kkn             desa         tari,0.0,netral
+502,gubahancip        ti             kayaaaa         kkn          desa       tari         wkwk,0.0,netral
+503,moviemenfes       kkn            desa            tari         like       whut,2.0,positif
+504,askrlfess         spoiler        film            kayak        kkn        desa         tari,0.0,netral
+505,mvs               film           perempuan       tanah        jahannam   kkn          desa         tari         horor          thriller     gak            ya                 guys,0.0,netral
+506,film              kalah          bagus           kkn          desa       tari         https        co           whpanm         z,0.0,netral
+507,xnrainn           askrlfess      jd              kkn          desa       tari         real         ato          engga          kak,0.0,netral
+508,windhy            khaze          samaaaa         tipikal      akun       yg           dgn          kkn          desa           tari         trus           udah               paham        bikin,0.0,netral
+509,kkn               desa           tari            kagak        horror     nya          samsek,0.0,netral
+510,badarawuhi        gak            ikut            kutip        film       kkn          desa         tari         https          co           eronygrpdc,0.0,netral
+511,mantap            gue            latih           drama        kkn        desa         tari         wkwkw,0.0,netral
+512,kisah             kkn            desa            tari         ambil      kisah        nyata        mahasiswa    kkn            desa         tonton         https              co           nyioqarhhl,0.0,netral
+513,amyourss          seblakjelettot heboh           kkn          desa       tari         yaa,0.0,netral
+514,moviemenfes       kkn            desa            tari,0.0,netral
+515,usul              badarawuhi     film            kkn          desa       tari         doyan        wik          wik            penasran     film           tonton             https        co,0.0,netral
+516,movie             kkn            desa            tari         full       movie        https        co           nyioqarhhl     lupa         like           share              follow,3.0,positif
+517,moviemenfes       kkn            desa            desa         tari       percent      nothing      percent      comedy,1.0,positif
+518,dwikiaprinaldi    tari           kkn             desa,0.0,netral
+519,moviemenfes       kkn            desa            tari         overall    kejut,0.0,netral
+520,jujur             sampe          ga              percaya      kkn        desa         tari         marketing    works          banget       maaf           kalo               org          misterius,0.0,netral
+521,askrlfess         clue           ku              tangkap      sih        kkn          desa         tari,0.0,netral
+522,clyd              moviemenfes fakta              kkn          desa       tari         boring       banget,-3.0,negatif
+523,moviemenfes       kkn            desa            tari,0.0,netral
+524,harga             tiket          kkn             desa         tari,0.0,netral
+525,moviemenfes       kkn            desa            tari,0.0,netral
+526,clyd              moviemenfes kkn                desa         tari       film         azab         sih,0.0,netral
+527,moviemenfes       kkn            desa            tari,0.0,netral
+528,moviemenfes       kkn            desa            tari         kagada     horor        nya          boring       rekomendasigue              niii           pee                mak          thailand,-3.0,negatif
+529,moviemenfes       kkn            desa            tari,0.0,netral
+530,moviemenfes       honestly       kkn             desa         tari       thread       much         horrifying,0.0,netral
+531,vishwajith        cvf            therealpreyan   bang         jono       x            kkn          desa         tari           clips        ishq           kameena            https        co,0.0,netral
+532,musik             kkn            desa            tari         yg         dj           bang         jono         tu             musik        asli           gmn                si           kalo,0.0,netral
+533,moviemenfes       kkn            desa            tari         contoh,0.0,netral
+534,kkn               desa           tari            fall         menu       gan          https        co           ehvy           ploeo,0.0,netral
+535,akun              following      biji            ngepost      viral      cerita       ala          ayat         ayat           cinta        fix            strategi           marketing    kayak,0.0,netral
+536,omahe             podo           kyok            film         desa       tari         wing,0.0,netral
+537,sinopsis          film           sewu            dino         teror      santet       sukses       film         kkn         desa            tari           md                 pictures     produksi,0.0,netral
+538,alanahinata       jujur          baca            threadnya    kkn        desa         tari         tonton       film,0.0,netral
+539,zhrdhani          ala            desa            tari         angkat     film         yg           bner         aja         ga              salah          selingkuh          wkwkwkwk     least,0.0,netral
+540,fadlilafaradila   convomf        gw              curiga       fiksi      dipost       twitter      dulang       popularitas ntar            adaptasi       film               kkn          desa,0.0,netral
+541,nonton            kkn            desa            tari         dimanasi   klo          web,0.0,netral
+542,convomfs          threadnya      sih             seru         ya         moga         ga           kecewa       pas            film         jujur          kecewa             kkn          desa,0.0,netral
+543,convomfs          baca           thread          emang        ngeri      banget       sih          nyeremin     banding        kkn          desa           tari               penasaran    ti,0.0,netral
+544,kkn               desa           tari            official     trailer    coming       soon         america      https          co           vlmaq          py                 h,0.0,netral
+545,film              kalah          bagus           kkn          desa       tari         https        co           whpanm         z,0.0,netral
+546,gigioge           habisnontonfilmkkn             desa         tari       film         kek          sampah,0.0,netral
+547,virtuaibase       tarik          nonton          potong       post       credit       film         kkn          desa           tari         kemaren        tunggu             film         tayang,0.0,netral
+548,badarawuhi        gak            ikut            kutip        film       kkn          desa         tari         https          co           eronygrpdc,0.0,netral
+549,kmren             nntn           kkn             desa         tari       trs          malemnya     ngimpi       liat           ular         air            byk                bgt,0.0,netral
+550,kisah             kkn            desa            tari         ambil      kisah        nyata        mahasiswa    kkn            desa         tonton         https              co           nyioqarhhl,0.0,netral
+551,usul              badarawuhi     film            kkn          desa       tari         doyan        wik          wik            penasran     film           tonton             https        co,0.0,netral
+552,movie             kkn            desa            tari         full       movie        https        co           nyioqarhhl     lupa         like           share              follow,3.0,positif
+553,naufalm           ngerti         main            twitter      thread     nya          rapi         bener        sus            sih          sumpah         curiga             kek          kkn,0.0,netral
+554,kzahras           scene          kkn             desa         tari       ya           pas          badarawuhinyadikalahin      actual       queen,0.0,netral
+555,namirase          syabieiia      kks             desa         tari,0.0,netral
+556,nonton            kkn            desa            tari         cito       jam          nonton       lantai       suruh          parkir       sok            ngide              turun        tangga,0.0,netral
+557,rec               rev            kkn             desa         tari       gak          tuh          untung       desa           aman         ya             kak,0.0,netral
+558,dah               nih            kating          cinta        kak        anna         kak          shameer      couple         goals        kampus         ga                 liat         abis,0.0,netral
+559,ga                duluuuu        udah            kecewa       kkn        desa         tari         yg           gg             film,0.0,netral
+560,tanyakanrl        bagus          banget          cerita       nulis      kkn          desa         tari,0.0,netral
+561,kayak             pecah          film            kkn          desa       tari,0.0,netral
+562,,0.0,netral
+563,sewu              dino          rilis         pas           lebaran      biar         pecah        rekor        kkn          desa        tari,0.0,netral
+564,lebaran           taun          ngecheat      lari          bioskop      nonton       kkn          desa         tari         taun        fix          lari          nonton       sewu,0.0,netral
+565,habisnontonfilm   bagus         kkn           desa          tari,0.0,netral
+566,endingny          bikin         kaya          kkn           desa         tari         aja          gatau        sopan        santun      bgt          ih            kesel        haiiii,0.0,netral
+567,marketing         e             peeewwinter   te            wing         tari         desa         kkn          tampil       bar         bakdo        sak           iki          yo,0.0,netral
+568,simplem           plot          twist         emang         meg          kkn          desa         tari         cekam        sewu        dino         ngebayangin   hutan        trus,0.0,netral
+569,film              kalah         bagus         kkn           desa         tari         https        co           whpanm       z,0.0,netral
+570,sempet            mikir         pas           baca          cerita       sewu         dino         rem          kkn          desa        tari         tp            ga           film,0.0,netral
+571,badarawuhi        gak           ikut          kutip         film         kkn          desa         tari         https        co          eronygqro,0.0,netral
+572,cerita            lengkap       kkn           desa          tari         versi        widya        nur          https        co          lt           kg            j            rw,0.0,netral
+573,banyuwangi        bom           tanda         john          wick         muncul       fungsi       bioskop      apaaaa       kkn         desa         tari          bulan        bioskop,0.0,netral
+574,kisah             kkn           desa          tari          ambil        kisah        nyata        mahasiswa    kkn          desa        tonton       https         co           nyioqarhhl,0.0,netral
+575,sbyfess           baca          threadnya     horor         ya           kkn          desa         tari         kalo         dasar       thread,0.0,netral
+576,usul              badarawuhi    film          kkn           desa         tari         doyan        wik          wik          penasran    film         tonton        https        co,0.0,netral
+577,movie             kkn           desa          tari          full         movie        https        co           nyioqarhhl   lupa        like         share         follow,3.0,positif
+578,kkn               desa          tari          press         conference   launching    official     poster       trailer      https       co           crpndmwo,0.0,netral
+579,blackpink         really        giving        kkn           desa         tari         vibe         horror       movie        vibee,0.0,netral
+580,harga             tiket         plunyon       kalikuning    lokasi       syuting      kkn          desa         tari         klik        baca         https         co           nurekb,0.0,netral
+581,blinkmf           oosir         desa          tari,0.0,netral
+582,serunyabelajar    kkn           desa          tari          tiktok       https        co           dnrjhwylba,0.0,netral
+583,jawafess          lucune        film          kkn           desa         tari         gawe         aksen        jowo         jogja       wkwkwk,0.0,netral
+584,preciousorenji    moviemenfes   turut         persis        sih          kak          nnton        cuplik       sewu         dino        pas          kmren         nnton        kkn,0.0,netral
+585,ajar              dr            kkn           desa          tari         gocek        nonton       sewu         dino         bioskop,0.0,netral
+586,moviemenfes       udh           baca          thread        nya          sewu         dino         ti           klo          nntn        film         nya           sm           persis,0.0,netral
+587,kkn               desa          tari          luwih         dowo         luwoh        medeni       md           pictures     x           livin        mandiri       https        co,0.0,netral
+588,tandang           desa          wisata        tugu          utara        cisarua      bogor        sambut       tari         tugu        utara        asyik         https        co,0.0,netral
+589,film              kalah         bagus         kkn           desa         tari         https        co           whpanm       z,0.0,netral
+590,badarawuhi        gak           ikut          kutip         film         kkn          desa         tari         https        co          eronygrpdc,0.0,netral
+591,kisah             kkn           desa          tari          ambil        kisah        nyata        mahasiswa    kkn          desa        tonton       https         co           nyioqarhhl,0.0,netral
+592,usul              badarawuhi    film          kkn           desa         tari         doyan        wik          wik          penasran    film         tonton        https        co,0.0,netral
+593,movie             kkn           desa          tari          full         movie        https        co           nyioqarhhl   lupa        like         share         follow,3.0,positif
+594,disocnnect        ga            beraniiii     kkn           desa         tari         aja          ak           ga           berani      ntn,0.0,netral
+595,moviemenfes       kkn           desa          tari          layak        tonton       bikin        versi        halah        halah       gin          doang,0.0,netral
+596,kemaren           beli          large         cup           dark         chocolate    tetep        manis        kakak        pahit       banget       ingat         yg           kkn,0.0,netral
+597,moviemenfes       kkn           desa          tari          ga           pntes        jdi          film         baik         indo,0.0,netral
+598,gue               baca          thread        kkn           desa         tari         dengerinnn   mmm          nya          treasure    seruuuu      begeteee      vibesnya     ga,2.0,positif
+599,moviemenfes       kkn           desa          tari          tuh          jelek        banget       bisa         dapet        tonton,0.0,netral
+600,moviemenfes       wednesday     kkn           desa          tari         overhyped    wkwk,0.0,netral
+601,ugm               fess          mengko        dadine        koyo         kkn          desa         tari,0.0,netral
+602,moviemenfes       kkn           desa          tari          overrated,0.0,netral
+603,harga             tiket         bioskop       kkn           desa         tari,0.0,netral
+604,film              kalah         bagus         kkn           desa         tari         https        co           whpanm       z,0.0,netral
+605,badarawuhi        gak           ikut          kutip         film         kkn          desa         tari         https        co          eronygqro,0.0,netral
+606,itzyejisu         rem           banding       kkn           desa         tari,0.0,netral
+607,kisah             kkn           desa          tari          ambil        kisah        nyata        mahasiswa    kkn          desa        tonton       https         co           nyioqar,0.0,netral
+608,tanyarlfes        gila          bgt           pas           part         gigit        kuping       honestly     gw           thread      horor        sewu          dino         horror,0.0,netral
+609,kkn               desa          tari          luwih         dowo         luwih        medeni       gala         premiere     https       co           akiue         rrh,0.0,netral
+610,usul              badarawuhi    film          kkn           desa         tari         doyan        wik          wik          penasran    film         tonton        https        co,0.0,netral
+611,movie             kkn           desa          tari          full         movie        https        co           nyioqarhhl   lupa        like         share         follow,3.0,positif
+612,kkn               desa          tari          luwih         dowo         luwih        medeni       alas         kuat         larang      widya        kkn           https        co,-1.0,negatif
+613,sewu              dino          tanggap       cast          kkn          desa         tari         sewu         dino         https       co           ikk           fcgh         b,0.0,netral
+614,kkn               desa          tari          luwih         dowo         luwih        medeni       seru         roadshow     bekas       slip         https         co           foksgecokv,-1.0,negatif
+615,widya             main          desa          tari,0.0,netral
+616,udah              selesai       baca          jujur         ya           experience   baca         rem          baca         kkn         desa         tari          sumpah       kkn,0.0,netral
+617,jasmminne         yusufimronn   uler          desa          tari,0.0,netral
+618,kkn               desa          tari          ga            nya          sewu         dino         anjir        real,0.0,netral
+619,aaaaaa            mampus        rem           kkn           desa         tari         beneran      visual       bayang,0.0,netral
+620,tanyakanrl        lagu          desa          tari,0.0,netral
+621,kkn               desa          tari          luwih         dowo         luwih        medeni       seru         roadshow     bogor       https        co            gfeabnbiq,0.0,netral
+622,desa              desa          tari,0.0,netral
+623,tanyakanrl        klo           pas           lebaran       sih          nder         beres        lebaran      mlmnya       brg         sepupu       nonton        kkn          desa,0.0,netral
+624,nsabdoellah       tanyarlfes    kalo          sih           mending      baca         thread       nya          kak          krn         baca         tu            ajak         berekspetasi,0.0,netral
+625,batas             danilla       ost           kkn           desa         tari         https        co           nloghxpt,0.0,netral
+626,bambinyayy        malem         biar          mistis        kayak        pilm         kkn          desa         tari,0.0,netral
+627,lipaikecil        tanyarlfes    taxi          online        emang        cerita       kumpul       berangkat    kkn          bapak       cerita       cerita        bapak        cerita,0.0,netral
+628,kevsentosa        lipaikecil    tanyarlfes    tau           simple       man          khusus       bwt          cerita       horor       base         true          story        karna,2.0,positif
+629,tanyarlfes        rem           kkn           desa          tari,0.0,netral
+630,kkn               desa          tari          luwih         dowo         luwih        medeni       badarawuhi   jadiin       wahyu       pasang       https         co           dch,0.0,netral
+631,tanyarlfes        ga            minat         kecewa        kkn          desa         tari         produksi     md,0.0,netral
+632,cerita            horor         kisah         nyata         kkn          desa         tari         https        co           chlbwmp     pv           filmhoror     kisahnyata   ceritahoror,0.0,netral
+633,lipaikecil        tanyarlfes    gasih         yg            sadar        kkn          desa         tari         tuh          cerita      bgt          cerita        see          see,0.0,netral
+634,vouyagerd         oh            iya           mkn           desa         tari         booming      bgt          tau          yg,0.0,netral
+635,kkn               desa          tari,0.0,netral
+636,thing             like          kkn           desa          tari         soundtrack   https        co           sq           w           gm,2.0,positif
+637,moonnasabit       baca          nonton        kkn           desa         tari         g,0.0,netral
+638,songkere          vivacoid      wkwkwk        akun          yg           dlu          rara         tutup        benernya     buka        twitter      cm            ikut         simpleman,0.0,netral
+639,tanyarlfes        trauma        ekspektasi    patah         kkn          desa         tari,-3.0,negatif
+640,lipaikecil        tanyarlfes    kkn           desa          tari         film         udah         ready        threadnya    sumber      orang        dalem         bioskop      ngurusin,0.0,netral
+641,yyunhoateez       anjrit        semangat      mahasiswa     unhar        kknnya       moga         dapet        desa         tari        main         dance         ateez,0.0,netral
+642,winterb           clov          iya           skeptis       semenjak     kkn          desa         tari         isi          cerita      kek          emg           fiksi        sampai,0.0,netral
+643,haaanchooo        gara          desa          tari          mikir        akun         isi          sebenernya   scenario     film        kisah        nyata,0.0,netral
+644,event             kali          judul         kkn           gak          desa         tari         yeyyy,0.0,netral
+645,film              kalah         bagus         kkn           desa         tari         https        co           whpanm       z,0.0,netral
+646,lipaikecil        tanyarlfes    kkn           desa          tari         nyata        badarawuhi   ad           udh          cek         tkp          sewu          dino         jg,0.0,netral
+647,tanyarlfes        rem           kkn           desa          tari         sih          asli,0.0,netral
+648,tanyarlfes        reall         rem           bgtt          kkn          desa         tari         gada         nya          seremm,0.0,netral
+649,badarawuhi        gak           ikut          kutip         film         kkn          desa         tari         https        co          eronygrpdc,0.0,netral
+650,tanyarlfes        udaaaaah      inget         bgt           puasa        nunggu       sahur        iseng        baca         rem         sewu         dino          kkn          desa,0.0,netral
+651,foreverlovyoun    wkwkkw        bener         percis        kkn          desa         tari         sih          skenario     gin         males        bgt,0.0,netral
+652,unpopular         opinion       baca          sewu          dina         gk           merinding    pas          baca         kkn         desa         tari          mgkn         krna,0.0,netral
+653,jangmifleur       lipaikecil    tanyarlfes    iya           mbak         kkn          desa         tari         sewu         dino        tulis        simple        man          fiksi,0.0,netral
+654,ga                kapok         kkn           desa          tari,0.0,netral
+655,tanyarlfes        bentar        cerita        dri           simple       man          fiksi        nyata        gue          percaya     kkn          desa          tari,0.0,netral
+656,kkn               desa          tari          tidur,0.0,netral
+657,moviemenfes       kkn           desa          tari,0.0,netral
+658,kisah             kkn           desa          tari          ambil        kisah        nyata        mahasiswa    kkn          desa        tonton       https         co           nyioqarhhl,0.0,netral
+659,kkn               desa          tari          luwih         dowo         luwih        medeni       seru         roadshow     malaysia    https        co            dy           w,0.0,netral
+660,usul              badarawuhi    film          kkn           desa         tari         doyan        wik          wik          penasran    film         tonton        https        co,0.0,netral
+661,cw                kkn           desa          tari          crossover    horror       disturbing   cerita       mimpi        ku          tau          kwak          jih          blio,-2.0,negatif
+662,movie             kkn           desa          tari          full         movie        https        co           nyioqarhhl   lupa        like         share         follow,3.0,positif
+663,tari              lengger       maut          indomovie     desa         pageralas    gempar       satu         warga        hilang      misterius    yg            sama         dr,0.0,netral
+664,kkn               desa          tari          luwih         dowo         luwih        medeni       seru         roadshow     singapore   https        co            lie          kd,0.0,netral
+665,kkn               desa          tari,0.0,netral
+666,bina              citer         ape           tu             bina        yg           tari         nari         pastu        kena        kacau        tu            nak          tengok,0.0,netral
+667,harga             tiket         bioskop       kkn            desa        tari,0.0,netral
+668,tomholliee        radenn        mas           recehtapisayng dongeng     handal       aja          biar         film         kek         kkn          desa          tari         https,0.0,netral
+669,kkn               desa          tari,0.0,netral
+670,movie             aja           drakor        ak            jg           ngantuk      itaewon      class        ngantuk      start       ngantuk      kkn           desa         tari,0.0,netral
+671,pas               jd            bopung        pas           kkn          desa         tari         https        co           dhzvixlgn,0.0,netral
+672,custodeidan       buka          hp            nyalain       instalive    judul        livestream   kkn          desa         tari,0.0,netral
+673,moviemenfes       kkn           desa          tari,0.0,netral
+674,daoielle          buset         pkl           desa          tari         yaa,0.0,netral
+675,,0.0,netral
+676,mvs           yg              udah         direncanain   bareng      mantan       pas              film         tayang       keburu      pegat        sender      kkn         desa,0.0,netral
+677,tantidisini   desa            tari,0.0,netral
+678,habis         ngrobrol        karna        mas           heran       sen          acara            temen        kuliah       mba         main         iya         temen       kkn,0.0,netral
+679,film          kalah           bagus        kkn           desa        tari         https            co           whpanm       z,0.0,netral
+680,badarawuhi    gak             ikut         kutip         film        kkn          desa             tari         https        co          eronygrpdc,0.0,netral
+681,kisah         kkn             desa         tari          ambil       kisah        nyata            mahasiswa    kkn          desa        tonton       https       co          nyioqarhhl,0.0,netral
+682,usul          badarawuhi      film         kkn           desa        tari         doyan            wik          wik          penasran    film         tonton      https       co,0.0,netral
+683,movie         kkn             desa         tari          full        movie        https            co           nyioqarhhl   lupa        like         share       follow,3.0,positif
+684,alam          ruh             astral       plane         alam        barzakh      alam             akhirat      khodam       alam        ruh          cmiiw       ramadan     annohegirae,0.0,netral
+685,kkn           d               sa           tari,0.0,netral
+686,gembuie       kaya            kemarin      nuntut        ilmu        desa         tari,0.0,netral
+687,kenal         farrel          ayodhia      yusuf         teliti      pengaruh     media            sosial       pasar        sukses      film         kkn         desa        tari,0.0,netral
+688,nonton        kkn             desa         tari          telat       wkwk,0.0,netral
+689,sweetleah     tari            desa         tari,0.0,netral
+690,kayana        kenal           yuk          sosok         budaya      kali         irwanda          putra        seniman      tari        latih        kirab       budaya      desa,0.0,netral
+691,link          nonton          kkn          desa          tari        telegram     aman             jalantikus   https        co          olxp         wddc,0.0,netral
+692,undipmenfess  desa            tari,0.0,netral
+693,kkn           desa            tari         alur          cerita      yg           lompat           untung       juta         tonton      bioskop      https       co          vi,0.0,netral
+694,mohneymaloloh suryaps         agusyudhoyonongweri        desa        tari         jilid,0.0,netral
+695,film          kalah           bagus        kkn           desa        tari         https            co           whpanm       z,0.0,netral
+696,last          least           film         indonesia     laku        bioskop      versi            extended     nya          kkn         desa         tari        luwih       dowo,0.0,netral
+697,badarawuhi    gak             ikut         kutip         film        kkn          desa             tari         https        co          eronygrpdc,0.0,netral
+698,schaleadea    kak             sasya        emang         desa        desa         tari             ya,0.0,netral
+699,kisah         kkn             desa         tari          ambil       kisah        nyata            mahasiswa    kkn          desa        tonton       https       co          nyioqarhhl,0.0,netral
+700,usul          badarawuhi      film         kkn           desa        tari         doyan            wik          wik          penasran    film         tonton      https       co,0.0,netral
+701,movie         kkn             desa         tari          full        movie        https            co           nyioqarhhl   lupa        like         share       follow,3.0,positif
+702,lee           zii             jia          new           dancer      badarawuhi   kkn              desa         tari         https       co           zxoxb       u           jg,0.0,netral
+703,moviemenfes   kkn             desa         tari          nder        bumi         manusia          bagus        banget       nonton,0.0,netral
+704,moviemenfes   kkn             desa         tari          wkwkw,0.0,netral
+705,moviemenfes   kkn             desa         tari          shutter     island       fight            club         marriage     story,-1.0,negatif
+706,tanyakanrl    tuju            sma          thread        kkn         desa         tari             film,0.0,netral
+707,masmaskacamatadesa            tari,0.0,netral
+708,nct           menfess         ga           rem           isi         ngakak       dream            kkn          desa         tari        tuh          gw          nonton      ngakak,1.0,positif
+709,evrythingokei ndek            desa         tari          ta,0.0,netral
+710,rumahidaman      kkn          desa         tari,0.0,netral
+711,moharyz          tp           muka         paksa         reminds     kkn          desa             tari,0.0,netral
+712,mitsumuichi      kuro         stark        hishangchi    sync        xahltam      memefess         kkn          desa         tari        pfftt,0.0,netral
+713,dhat             sinden       kkn          kit           official    audio        kkn              desa         tari         https       co           nyba        wtz,0.0,netral
+714,danilla          batas        ost          kkn           desa        tari         https            co           sfch         kwjen,0.0,netral
+715,baru             primevideo   qodrat       maret         induk       gajah        season           maret        srimulat     hil         mustahal     babak       maret       sassy,0.0,netral
+716,ririastria       pegi         banyuwangi   kkn           desa        tari,0.0,netral
+717,suddenly         remember     moment       dreamies      went        kkn          desa             tari         haunted      house       https        co          l           pw,-2.0,negatif
+718,bring            back         nct          dream         wahana      kkn          desa             tari         https        co          nh           rmm         e,1.0,positif
+719,danilla          batas        ost          kkn           desa        tari         bts              mv           behind       song        music        video       https       co,0.0,netral
+720,film             kalah        bagus        kkn           desa        tari         https            co           whpanm       z,0.0,netral
+721,ngakak           liat         story        wa            dr          gianne       rumah            kkn          desa         tari        barutau      gunung      kidul       https,0.0,netral
+722,tonton           film         kkn          desa          tari        versi        versi            extended     bioskop      mohon       sedia        isi         kuisoner    terima,0.0,netral
+723,bantu            farrel       lulus        tolong        bantu       farrel       lulus            kenal        farrel       ayodhia     yusuf        teliti      pengaruh    media,0.0,netral
+724,badarawuhi       gak          ikut         kutip         film        kkn          desa             tari         https        co          eronygrpdc,0.0,netral
+725,yuk              yuk          sebentar     ketemu        ayu         desa         tari             https        co           fcivit      iyp,0.0,netral
+726,nungguin         jala         wahyu        kkn           desa        tari         https            co           nvd          igijx,0.0,netral
+727,kisah            kkn          desa         tari          ambil       kisah        nyata            mahasiswa    kkn          desa        tonton       https       co          nyioqarhhl,0.0,netral
+728,moviemenfes      kkn          desa         tari          uncut       extended     director         exclusive    never        seen        footage      hidden      eater       egg,2.0,positif
+729,usul             badarawuhi   film         kkn           desa        tari         doyan            wik          wik          penasran    film         tonton      https       co,0.0,netral
+730,dewa             lagu         batas        hasil         bikin       merinding    reaction         music        video        ost         kkn          desa        tari        https,0.0,netral
+731,movie            kkn          desa         tari          full        movie        https            co           nyioqarhhl   lupa        like         share       follow,3.0,positif
+732,batas            danilla      hasil        bikin         merinding   kkn          desa             tari         short        https       co           dpxawekxp,0.0,netral
+733,moviemenfes      kkn          desa         tari,0.0,netral
+734,danilla          lafa         tantang      main          sambung     lirik        ost              kkn          desa         tari        sambung      lirik       challenge   https,-1.0,negatif
+735,danilla          ggung        kalah        main          sambung     lirik        ost              kkn          desa         tari        short        https       co          ptfgqfcpiq,0.0,netral
+736,mukkbangkeong    worksfess    rem          cerita        kak         kkn          desa             tari         kalah,0.0,netral
+737,dengerin         pake         headset      aja           keren       pake         dolby            atmos        ost          kkn         desa         tari        short       https,0.0,netral
+738,gokil            bagus        music        video         batas       danilla      reaction         music        video        ost         kkn          desa        tari        https,0.0,netral
+739,moviemenfes      sorry        bgt          kkn           desa        tari,-1.0,negatif
+740,moviemenfes      qodrat       kkn          desa          tari        allah        gw               g            ridho        lillahita   ala          nonton      film        trash,0.0,netral
+741,moviemenfes      kkn          desa         tari          extended    uncut        director         cut          deluxe       edition,-1.0,negatif
+742,dengar           openingnya   aja          langsung      merinding   ost          kkn              desa         tari         short       https        co          h           zhz,0.0,netral
+743,harga            tiket        bioskop      kkn           desa        tari,0.0,netral
+744,jujur            takut        liat         rem           kkn         desa         tari,0.0,netral
+745,prastiwiindras   kkn          desa         tari,0.0,netral
+746,rem              aulia        sarah        aneh          dengar      alu          sinden           ost          kkn          desa        tari         https       co          okfhvefu,0.0,netral
+747,asa              uji          nyali        dengerin      alu         sinden       dhat             ost          kkn          desa        tari         https       co          drjuwoaxj,0.0,netral
+748,pikir            hokage       desa         tari          ya,0.0,netral
+749,merinding        gak          kuat         dengerin      sampe       habis        dhat             kit          ost          kkn         desa         tari        https       co,0.0,netral
+750,mojokdotco       ashiapman    kkn          desa          tari,0.0,netral
+751,littlemoon       kkn          desa         tari,0.0,netral
+752,mvs              kkn          desa         tari          versi       extended     tayang           april        prime        excited     https        co          ndlf        ea,3.0,positif
+753,temu             badarawuhi   desa         tari          kkn         desa         tari             luwih        dowo         luwih       medeni       tayang      mei         primevideoid,0.0,netral
+754,temu             badarawuhi   desa         tari          kkn         desa         tari             luwih        dowo         luwih       medeni       tayang      mei         primevideoid,0.0,netral
+755,temu             badarawuhi   desa         tari          kkn         desa         tari             luwih        dowo         luwih       medeni       tayang      mei         primevideoid,0.0,netral
+756,temu             badarawuhi   desa         tari          kkn         desa         tari             luwih        dowo         luwih       medeni       tayang      mei         primevideoid,0.0,netral
+757,bikin            trit         buk          biar          ti          yg           jadiin           lem          kayak        kkn         desa         tari,0.0,netral
+758,film             kalah        bagus        kkn           desa        tari         https            co           whpanm       z,0.0,netral
+759,badarawuhi       gak          ikut         kutip         film        kkn          desa             tari         https        co          eronygrpdc,0.0,netral
+760,wviinteo         kkn          desa         tari,0.0,netral
+761,chatgpt          store        data         indonesian    autobase    gives        misinformation   answer       put          wikipedia   including    also        unique      case,-2.0,negatif
+762,paltiwest        desa         tari         sih,0.0,netral
+763,sewu             dino         beneran      bikin         gue         bayang       bayang           mulu         anjir        btw         gara         kkn         desa        tari,0.0,netral
+764,kisah            kkn          desa         tari          ambil       kisah        nyata            mahasiswa    kkn          desa        tonton       https       co          nyioqarhhl,0.0,netral
+765,usul             badarawuhi   film         kkn           desa        tari         doyan            wik          wik          penasran    film         tonton      https       co,0.0,netral
+766,movie            kkn          desa         tari          full        movie        https            co           nyioqarhhl   lupa        like         share       follow,3.0,positif
+767,kit              dhat         official     lyric         video       ost          kkn              desa         tari         https       co           hrnha       gyoo,0.0,netral
+768,jujur            hari         mikir        desa          tari        yg           kkn              desa         tari         astaga      https        co          arbljwd     bx,0.0,netral
+769,ccaoca           kkn          desa         tari          season,0.0,netral
+770,tanyakanrl       kkm          desa         tari,0.0,netral
+771,kit              dhat         bedah        lirik         ost         kkn          desa             tari         https        co          yuormrjew,0.0,netral
+772,anakpanadol      merinding    darl         keinget       scene       kkn          desa             tari         yg           tiba        nari         hutan       malam,0.0,netral
+773,lanjut           tonton       kkn          desa          tari        emut         pocky,0.0,netral
+774,gyuqxka          kyk          kkn          desa          tari,0.0,netral
+775,icafasih         syuting      kkn          desa          tari        wkwk,0.0,netral
+776,nctzenbase       byangin      ntar         jaemin        kluar       dri          rumah            hantu        baju         udah        compang      camping     krna        tarik,0.0,netral
+777,film             indonesia    tayang       prime         video       ramadhan     qodrat           induk        gajah        srimulat    hil          mustahal    sassy       girl,0.0,netral
+778,kkn              desa         tari         juta          tonton      tahun        telah,0.0,netral
+779,nus              coming       prime        video         qodrat      mar          induk            gajah        mar          srimulat    hil          mustahal    mar         sassy,0.0,netral
+780,yumewune         tau          ah           kkn           desa        tari         becomes          top          grossing     film        indo         skrg        org         kek,2.0,positif
+781,tanyarlfes       cerita       simplem      sinpenulis    kkn         desa         tari,0.0,netral
+782,malvin           juan         tanyakanrl   bener         sih         bang         kemungki         ting         gak          percaya     orang        kayak       film        gw,0.0,netral
+783,ardhitya         tio          arep         nyaingi       kkn         desa         tari             dadi         kkn          desa,0.0,netral
+784,upanpuan         tanyarlfes   backsound    kkn           desa        tari         pas              iku,0.0,netral
+785,moviemenfes      nonton       kkn          desa          tari        doang,0.0,netral
+786,hochiolatte      msh          kaya         sih           viral       nya          bareng           kkn          desa         tari        tp           lupa        akun        yg,0.0,netral
+787,,0.0,netral
+788,pecah             warkop          dki           reborn       juta         tonton        kkn          desa          tari         juta        tonton,0.0,netral
+789,shinemahae        adhityoagam     tanyarlfes    lho          uy           tulis         kkn          desa          tari         sewu        dino         sewu        kali         rem,0.0,netral
+790,seribuanaja       awisuryadi      barangkali    minat        kkn          desa          tari         pt            bang,0.0,netral
+791,nojakapan         sakit           hati          kalo         dipake       bangkit       listrik      tenaga        surya        udh         rang         tapak       tilas        desa,0.0,netral
+792,tu                kali            baca          thread       simple       man           kkn          desa          tari         ituu        rem          bgtt        trus         abis,0.0,netral
+793,kuda              kepang          seram         kkn          desa         tari          tu           cerita        dikffkak,0.0,netral
+794,desa              banyuwangi      rapopo        kkn          desa         tari          lesgo,0.0,netral
+795,jenohukum         desa            tari,0.0,netral
+796,kerja             minionsnya      simpleman     horor        yg           booming       lg           kaya          kkn          desa        tari         goblok,0.0,netral
+797,ubsansfess        desa            tari          nder,0.0,netral
+798,sambut            ramadan         keliling      sungkem      sinema       lokal         ustadz       qodrat        kkn          desa        tari         leuwih      dowo         leuwih,0.0,netral
+799,film              kalah           bagus         kkn          desa         tari          https        co            whpanm       z,0.0,netral
+800,kkn               desa            tari          extended     version      tayang        prime        video         mei          ti          https        co          jurhvkwbph,0.0,netral
+801,peaarrlyyy        kkn             desa          tari,0.0,netral
+802,badarawuhi        gak             ikut          kutip        film         kkn           desa         tari          https        co          eronygrpdc,0.0,netral
+803,wafahusain        ubsansfess      camat         kkn          desa         tari          wkwk,0.0,netral
+804,ubsansfess        kelompok        desa          tari,0.0,netral
+805,anj               dapet           kkn           banyuwangi   kkn          desa          tari         ril           kah,0.0,netral
+806,review            konten          viral         kkn          desa         tari          milik        nessie        jugde        nerror      link         https       co           ec,0.0,netral
+807,kisah             kkn             desa          tari         ambil        kisah         nyata        mahasiswa     kkn          desa        tonton       https       co           nyioqarhhl,0.0,netral
+808,usul              badarawuhi      film          kkn          desa         tari          doyan        wik           wik          penasran    film         tonton      https        co,0.0,netral
+809,movie             kkn             desa          tari         full         movie         https        co            nyioqarhhl   lupa        like         share       follow,3.0,positif
+810,theonlykiaz       tanyarlfes      mikir         aja          make         logika        cerita       kek           gin          tuh         banget       tebar       sosmed       jatuh,0.0,netral
+811,tanyarlfes        inget           film          sewu         dino         lanjut        kkn          desa          tari,0.0,netral
+812,trus              random          bacain        thread       wkwkk        seru          jg           kaya          pas          baca        cerita       kkn         desa         tari,0.0,netral
+813,cite              pulau           tu            x            byk          jumpscare     mcm          kkn           desa         tari        vibe         seram       ok           tp,0.0,netral
+814,myjeongooo        indomyfess      dancer        desa         tari         iye           kalik,0.0,netral
+815,list              film            horror        tonton       bioskop      since         conjuring    kkn           desa         tari        maghrib      udah        ya           kalo,0.0,netral
+816,ted               kho             piokharisma   tuju         aksen        jawa          aktor        aktris        film         kkn         desa         tari        ganggu       bgt,0.0,netral
+817,moviemenfes       kkn             desa          tari,0.0,netral
+818,film              kalah           bagus         kkn          desa         tari          https        co            whpanm       z,0.0,netral
+819,badarawuhi        gak             ikut          kutip        film         kkn           desa         tari          https        co          eronygrpdc,0.0,netral
+820,kisah             kkn             desa          tari         ambil        kisah         nyata        mahasiswa     kkn          desa        tonton       https       co           nyioqarhhl,0.0,netral
+821,usul              badarawuhi      film          kkn          desa         tari          doyan        wik           wik          penasran    film         tonton      https        co,0.0,netral
+822,harga             tiket           kkn           desa         tari,0.0,netral
+823,movie             kkn             desa          tari         full         movie         https        co            nyioqarhhl   lupa        like         share       follow,3.0,positif
+824,oke               review          kkn           desa         tari         peti          film         rilis         sayang       pan         https        co          fauglpd      ceritahoror,0.0,netral
+825,tanyarlfes        santet          sunrise       java         desa         tari,0.0,netral
+826,tanyarlfes        thread          kkn           desa         tari,0.0,netral
+827,padukakolorijo    kosple          kkn           desa         tari         kak,0.0,netral
+828,tanyarlfes        santet          ujung         jawa         kkn          desa          tari,0.0,netral
+829,tanyarlfes        baca            thread        kkn          desa         tari,0.0,netral
+830,ambil             batang          cigaret       usir         penat        dingin        desa         glagah        angin        tiup        terpa        pepoho      depan        rumah,0.0,netral
+831,kyaiahy           kkn             desa          tari,0.0,netral
+832,firdaustaicho     hezerisamsuri   mcm           scene        kkn          desa          tari,0.0,netral
+833,kkn               desa            tari          film         film         horor         indonesia    rekor         tonton       https       co           ppfwtpggp,0.0,netral
+834,masnovaa          liat            komen         komennya     jd           ngebayangin   wik          wik           tengah       hutan       dalem        tendam      ntar         kena,0.0,netral
+835,kisah             kkn             desa          tari         angkat       layar         lebar        https         co           j           u            hyqyj,0.0,netral
+836,md                pictures        angkat        kisah        kkn          desa          tari         layar         lebar        https       co           p           nddtrahm,0.0,netral
+837,sosok             simpleman       rahasia       kkn          desa         tari          https        co            f            hdg         nsjv,0.0,netral
+838,dandhy            laksono         cucukdonartononek          antagonise   beda          teh          ketoe         kkn          desa        tari         ki,0.0,netral
+839,collegemenfess    kkn             tempat        yg           gaada        sinyal        wkwk         masuk         hutan        bilang      desa         hutan       pas          survey,0.0,netral
+840,film              kalah           bagus         kkn          desa         tari          https        co            whpanm       z,0.0,netral
+841,badarawuhi        gak             ikut          kutip        film         kkn           desa         tari          https        co          eronygrpdc,0.0,netral
+842,scaraameowz       desa            tari,0.0,netral
+843,kisah             kkn             desa          tari         ambil        kisah         nyata        mahasiswa     kkn          desa        tonton       https       co           nyioqarhhl,0.0,netral
+844,mimpi             mlm             td            jln          bal          jd            kes          kkn           desa         tari        subuh,0.0,netral
+845,usul              badarawuhi      film          kkn          desa         tari          doyan        wik           wik          penasran    film         tonton      https        co,0.0,netral
+846,kkn               desa            tari          gentayang    layar        lebar         https        co            chbqw,0.0,netral
+847,movie             kkn             desa          tari         full         movie         https        co            nyioqarhhl   lupa        like         share       follow,3.0,positif
+848,nextjack          scenariese      magurameudin abeduh        sih          kkn           desa         tari          gak          ngeh,0.0,netral
+849,moviemenfes       kkn             desa          tari,0.0,netral
+850,moviemenfes       kkn             desa          tari         anjir        bgt,0.0,netral
+851,,0.0,netral
+852,added             new             video        kkn           desa         tari          background   metal         https        co          ufbiqi       ur          video        https,0.0,netral
+853,sseongbe          oh              manoj        punjabi       ajak         main          kkn          desa          tari         jgn,0.0,netral
+854,psycheax          desa            tari         ga,0.0,netral
+855,kkn               desa            tari         sewu          dino         itula         prik         bgt           kaya         rewatch     kkn          dikit       dikit        huaoooo,0.0,netral
+856,film              kalah           bagus        kkn           desa         tari          https        co            whpanm       z,0.0,netral
+857,wahh              iki             cerita       yg            turut        ngga          kalah        epic          dr           kkn         desa         tari        mantul       cc,0.0,netral
+858,badarawuhi        gak             ikut         kutip         film         kkn           desa         tari          https        co          eronygrpdc,0.0,netral
+859,kkn               desa            tari         adegan        nya          ngga,0.0,netral
+860,keluarga          bawa            anak         gua           tonton       tu            banyak       film          horror       anak        kecil        tk          umur         gua,0.0,netral
+861,latiefahnfauzi    kochengfs       rasuk        setan         tari         desa          kkn          kah,0.0,netral
+862,kisah             kkn             desa         tari          ambil        kisah         nyata        mahasiswa     kkn          desa        tonton       https       co           nyioqarhhl,0.0,netral
+863,yg                per             ko           beda          ya           yg            puter        kkn           desa         tari        uncut        kemarin,0.0,netral
+864,usul              badarawuhi      film         kkn           desa         tari          doyan        wik           wik          penasran    film         tonton      https        co,0.0,netral
+865,movie             kkn             desa         tari          full         movie         https        co            nyioqarhhl   lupa        like         share       follow,3.0,positif
+866,simplem           mas             maaf         nih           nonton       kkn           desa         tari          streaming    platform    sih          yg          film         akurat,0.0,netral
+867,moviemenfes       kkn             desa         tari,0.0,netral
+868,boxofficemovie    smoga           kemas        eksekusi      keren        ya            sm           directornya   jgn          kyk         kkn          desa        tari         scene,0.0,netral
+869,driver            paham           pandang      lihat         dua          orang         asli         sidoarjo      pandang      janggal     pikir        bayang      kisah        desa,0.0,netral
+870,starfess          nct             suka         nari          saman        blusukan      bantar       gebang        makan        klepon      bus          tingkat     nonton       kkn,0.0,netral
+871,askrlfess         kkn             desa         tari          wkwkk        untung        gak          nonton        bioskop,0.0,netral
+872,masuk             ranah           horror       efek          serasa       nonton        trilogi      danur         kkn          desa        tari         kepala      pusing       jumpscare,0.0,netral
+873,sunookig          sunghooj        wocpil       tolong        ajar         gua           ngedance     ngedance      desa         tari,0.0,netral
+874,lebaran           kemarin         perdana      kkn           desa         tari          tayang       excited       bgt          penasaran   gak          rem         lebaran      sewu,3.0,positif
+875,film              kalah           bagus        kkn           desa         tari          https        co            whpanm       z,0.0,netral
+876,chikiballisgood   desa            tari,0.0,netral
+877,moviemenfes       kkn             desa         tari          porno,0.0,netral
+878,badarawuhi        gak             ikut         kutip         film         kkn           desa         tari          https        co          eronygrpdc,0.0,netral
+879,cenayangfilm      kkn             desa         tari          bunuh,0.0,netral
+880,kisah             kkn             desa         tari          ambil        kisah         nyata        mahasiswa     kkn          desa        tonton       https       co           nyioqarhhl,0.0,netral
+881,usul              badarawuhi      film         kkn           desa         tari          doyan        wik           wik          penasran    film         tonton      https        co,0.0,netral
+882,movie             kkn             desa         tari          full         movie         https        co            nyioqarhhl   lupa        like         share       follow,3.0,positif
+883,film              warkop          dki          reborn        nya          rako          prijanto     biang         kerok        film        film         asun        mawardi      danur,0.0,netral
+884,starfess          ilichil         nari         poco          nari         saman         pake         sarung        dreamies     wahana      kkn          desa        tari         ngevlog,0.0,netral
+885,kkn               desa            tari         bosan         lupa         dah           tengok       movie         ni           lepas       lepas        tu          takda        mood,0.0,netral
+886,asih              encanto         danur        kkn           desa         tari,0.0,netral
+887,kkn               desa            tari         https         co           dpcgxps       ah           paku          kuntilanak   https       co           qpdgo       ilty         tali,0.0,netral
+888,seventeenxgyu     korupsi         kolusi       nepotisme     kkn          desa          tari,0.0,netral
+889,tudys             wendy           kkn          ape           desa         tari,0.0,netral
+890,dwianggaf         kkn             desa         tari          ae           ngga,0.0,netral
+891,gimana            xixixi          nih          lanjut        fakta        fakta         kkn          desa          tari         tahu        tiser        ad          fakta        yg,0.0,netral
+892,habis             bahas           cerita       kkn           desa         tari          ga           lengkap       engga        mana        lokasi       desa        tari         xixixi,0.0,netral
+893,tuju              abdi            setan        muncul        film         horror        level        kecuali       kkn          desa        tari         semi        nya          njir,0.0,netral
+894,udah              ga              asing        cerita        kkn          desa          tari         bega          lengkap      dengerin    cerita       misteri     tin          lagu,0.0,netral
+895,oke               review          kkn          desa          tari         luwih         dowo         luwih         medeni       https       co           u           vf           xhuvh,0.0,netral
+896,moviemenfes       kkn             desa         tari,0.0,netral
+897,najaemtekin       kmrn            aja          main          kkn          desa          tari,0.0,netral
+898,kkn               desa            tari         opo           maneh        iki           https        co            eu           odckt,0.0,netral
+899,film              kalah           bagus        kkn           desa         tari          https        co            whpanm       z,0.0,netral
+900,,0.0,netral
+901,kali              movie          date         nonton         kkn          desa         tari           film        nya          ga         gitu         rem          visual     hantu,0.0,netral
+902,yaegyuji          haahhh         astaga       gitu           ya           film         horor          indo        bagus        lho        kemaren      film         horor      indo,0.0,netral
+903,badarawuhi        gak            ikut         kutip          film         kkn          desa           tari        https        co         eronygrpdc,0.0,netral
+904,nct               menfess        wayv         transjakarta   nct          dream        akrab          hantu       wahana       kkn        desa         tari         nct        dream,2.0,positif
+905,geleng            samar          samar        wajah          laksmi       sesat        desa           windualit   korban       demit      tari         alas         mayit      pulang,-1.0,negatif
+906,kisah             kkn            desa         tari           ambil        kisah        nyata          mahasiswa   kkn          desa       tonton       https        co         nyioqarhhl,0.0,netral
+907,usul              badarawuhi     film         kkn            desa         tari         doyan          wik         wik          penasran   film         tonton       https      co,0.0,netral
+908,movie             kkn            desa         tari           full         movie        https          co          nyioqarhhl   lupa       like         share        follow,3.0,positif
+909,kkn               desa           tari         produksi       md           pictures     pichouse       films       https        co         apwzkkjzhb,0.0,netral
+910,leeknyaw          korupsi        kolusi       nepotisme      kkn          desa         tari,0.0,netral
+911,nct               menfess        renjun       citayem        fashion      week         jeno           jaemin      goyang       bang       jali         dreamies     wah        kkn,0.0,netral
+912,nct               menfess        nct          daily          sub          bahasa       jawa           edisi       jaemin       jeno       sepeda       akun         official   jeno,0.0,netral
+913,nct               menfess        nct          dream          masuk        wahana       kkn            desa        tari,1.0,positif
+914,nct               dream          indonesia    akrab          badarawuhi   pas          main           wahana      kkn          desa       tari         renjun       citayem    fashion,1.0,positif
+915,jeno              jaemin         many         experiences    indonesia    volunteer    bantargebang   bekas       meet         sultan     andara       joget        bang       jali,0.0,netral
+916,convomf           kkn            desa         tari,0.0,netral
+917,nct               dream          nyoba        wahana         kkn          desa         tari           nct         dream        salim      muh          makinn       ga         masuk,2.0,positif
+918,nctzenbase        idol           wahana       desa           tari         wkwk,0.0,netral
+919,serba             serbi          nct          dream          indo         renjun       citayem        fashion     week         akrab      badarawuhi   pas          main       wahana,1.0,positif
+920,historivitae      hayden         poster       film           kkn          desa         tari,0.0,netral
+921,historivitae      hayden         poster       film           kkn          desa         tari,0.0,netral
+922,convomf           kkn            desa         tari           wkwk,0.0,netral
+923,naravitaminz      pls            iyaaa        kek            kkn          desa         tari           pake        cut          uncut      plsss,-1.0,negatif
+924,convomf           kkn            desa         tari,0.0,netral
+925,mala              udah           kaya         kkn            desa         tari,0.0,netral
+926,manoj             punjabi        umum         kkn            desa         tari         tayang         https       co           ei         acvzyu,0.0,netral
+927,apaapaansi        desa           tari         gak            tuh,0.0,netral
+928,film              kalah          bagus        kkn            desa         tari         https          co          whpanm       z,0.0,netral
+929,malem             malem          tetangga     muter          lagu         banyuwangi   kenceng        bgt         etss         langsung   keinget      salah        scene      kkn,0.0,netral
+930,film              kalah          kkn          desa           tari         yg           tempat         posisi      dasar        film       yg           angkat       daei       thread,0.0,netral
+931,badarawuhi        gak            ikut         kutip          film         kkn          desa           tari        https        co         eronygrpdc,0.0,netral
+932,ayu               berangkat      kkn          per            film         kkn          desa           tari        https        co         q            w            ttvwnl,0.0,netral
+933,resthourminimum   lg             kkn          desa           tari         yak,0.0,netral
+934,kisah             kkn            desa         tari           ambil        kisah        nyata          mahasiswa   kkn          desa       tonton       https        co         nyioqarhhl,0.0,netral
+935,usul              badarawuhi     film         kkn            desa         tari         doyan          wik         wik          penasran   film         tonton       https      co,0.0,netral
+936,manoj             punjabi        nonton       jam            mentah       film         kkn            desa        tari         https      co           vb           c          satmn,0.0,netral
+937,movie             kkn            desa         tari           full         movie        https          co          nyioqarhhl   lupa       like         share        follow,3.0,positif
+938,manoj             punjabi        wartawan     kait           strategi     film         kkn            desa        tari         https      co           cpkyuf       nch,0.0,netral
+939,kkn               desa           tari         simpleman      flyfbp       https        co             eexhytzdy   https        co         pre          skqazz,0.0,netral
+940,kkn               desa           tari         j              kcs          c            https          co          hfujxj       zp         https        co           tzs        qeetjf,0.0,netral
+941,modus             kkn            desa         tari           https        co           hichbzz        f,0.0,netral
+942,manoj             punjabi        pilih        casting        per          film         kkn            desa        tari         https      co           jmuqulnkvp,0.0,netral
+943,jokoanwar         pegawai        negeri       kkn            bikin        konsep       horor          remake      desa         tari       kkn,0.0,netral
+944,penasaran         lokasi         film         kkn            desa         tari         manoj          punjabi     https        co         ckehlrjjn,0.0,netral
+945,tanyarlfes        kkn            desa         tari           pesan        moral        sagapung,0.0,netral
+946,kendala           syuting        film         kkn            desa         tari         langsung       manoj       punjabi      https      co           qmba         yzhlu,0.0,netral
+947,mvs               maaf           ngelanggar   nonton         kkn          desa         tari           nih         yg           nonton     bareng       ngelanggar   w          hapus,0.0,netral
+948,befourjune        kkn            desa         tari,0.0,netral
+949,kkn               desa           tari,0.0,netral
+950,zoobabystation    nonton         film         co             driver       film         kayak          kkn         desa         tari       nonton       ya           aja        seh,0.0,netral
+951,sapihujann        marketingnya   jago         mor            kek          kkn          desa           tari        goreng       terussss,0.0,netral
+952,tanyarlfes        kkn            desa         tari           ngentot      sembarang,0.0,netral
+953,tanyarlfes        udah           yg           gampang        film         kkn          desa           tari        pesan        moral      mana         tempat       sopan      hormat,0.0,netral
+954,harga             tiket          kkn          desa           tari,0.0,netral
+955,keepersanemi      ayo            sanemi       tulis          kalimat      koreksi      shinobu        pulang      rekan        rekan      habis        libur        inap       desa,0.0,netral
+956,kkn               desa           tari         ngelihat       anya         ngereog,0.0,netral
+957,seputartetangga   ajak           murid        smk            sih          nonton       film           kelas       request      film       horor        indeed       kkn        desa,0.0,netral
+958,kemarin           nonton         kkn          desa           tari         sampe        bawa           suasana     nya,0.0,netral
+959,bolohoooooooo     fesss          mba          suka           baca         novel        ga             novel       isi          tulis      doang        ya           bilang     cerita,4.0,positif
+960,film              sewu           dino         garap          kimo         stamboel     manoj          punjabi     jamin        seram      film         kkn          desa       tari,0.0,netral
+961,film              kalah          bagus        kkn            desa         tari         https          co          whpanm       z,0.0,netral
+962,badarawuhi        gak            ikut         kutip          film         kkn          desa           tari        https        co         eronygrpdc,0.0,netral
+963,faktonei          detikcom       detiksumut   bneran         film         debut        kkn            desa        tari         wkwkwk     tp           jd           mua        sfxnya,0.0,netral
+964,zxxdxn            skenario       putusnyo     lantak         nak          fokus        skripsi        selingkuh   pas          kkn        men          slingkuh     moga       bae,0.0,netral
+965,tanyakanrl        nggak          twitter      cerita         kkn          desa         tari,0.0,netral
+966,kisah             kkn            desa         tari           ambil        kisah        nyata          mahasiswa   kkn          desa       tonton       https        co         nyioqarhhl,0.0,netral
+967,usul              badarawuhi     film         kkn            desa         tari         doyan          wik         wik          penasran   film         tonton       https      co,0.0,netral
+968,movie             kkn            desa         tari           full         movie        https          co          nyioqarhhl   lupa       like         share        follow,3.0,positif
+969,harga             tiket          kkn          desa           tari,0.0,netral
+970,kejorapurnama     bandung        real         place          desa         tari         shit           literally   go,-4.0,negatif
+971,arafunetetsuji    wow            jual         tinggi         kaya         kkn          desa           tari        ga           sih        jelek,4.0,positif
+972,moviemenfes       kkn            desa         tari           since        des          https          co          j            bzmye,0.0,netral
+973,lucu              bahas          jelek        bagus          yg           bales        pake           angka       ekwkkwkk     kkn        desa         tari         tonton     banget,0.0,netral
+974,imigrran          remake         film         kkn            desa         tari         dung           wkwk,0.0,netral
+975,moviemenfes       nonton         kkn          desa           tari         min          seru           gin         https        co         ql           rbdrs,0.0,netral
+976,moviemenfes       kkn            desa         tari           bareng       doi          kak            aku         takut        doi        gak          takut        buka       mata,0.0,netral
+977,katarsismanis     desa           tari         breakdance     jagakarsa    ahahahah,0.0,netral
+978,lobi              bareng         gudang       ruang          laundry      pantry       yg             liat        housing      tuh        pencil       hutan        malem      gelap,0.0,netral
+979,beyournoona       kaya           cerita       kkn            desa         tari         gitu           yaa         jiwa         nya        aja          fisik        nya,0.0,netral
+980,moviemenfes       kkn            desa         tari           ahahah       taun,0.0,netral
+981,avengers          eg             kkn          desa           tari         avengers     iw             spiderman   nwh          dr         strange      mom          warkop     dki,-5.0,negatif
+982,sbyfess           kalo           suka         alam           sih          nder         pantai         gunung      kidul        bebas      kali         adem         gunung     api,0.0,netral
+983,nonton            bioskop        kkn          desa           tari         dibayarin    temen          mo          booking      kaget      larang       wkwkk,0.0,netral
+984,harga             tiket          bioskop      kkn            desa         tari,0.0,netral
+985,wownoou           unfriendless   kkn          desa           tari         kak,0.0,netral
+986,film              kalah          bagus        kkn            desa         tari         https          co          whpanm       z,0.0,netral
+987,badarawuhi        gak            ikut         kutip          film         kkn          desa           tari        https        co         eronygrpdc,0.0,netral
+988,kisah             kkn            desa         tari           ambil        kisah        nyata          mahasiswa   kkn          desa       tonton       https        co         nyioqarhhl,0.0,netral
+989,moviemenfes       kkn            desa         tari,0.0,netral
+990,moviemenfes       kkn            desa         tari,0.0,netral
+991,usul              badarawuhi     film         kkn            desa         tari         doyan          wik         wik          penasran   film         tonton       https      co,0.0,netral
+992,movie             kkn            desa         tari           full         movie        https          co          nyioqarhhl   lupa       like         share        follow,3.0,positif
+993,moviemenfes       kkn            desa         tari           udh          bgt          woyyy,0.0,netral
+994,kit               bedah          lirik        alu            sinden       dhat         ost            kkn         desa         tari       luwih        dowo         luwih      medeni,0.0,netral
+995,moviemenfes       kkn            desa         tari,0.0,netral
+996,moviemenfes       kkn            desa         tari           uncut,0.0,netral
+997,merinding         live           dhat         kit            hajat        kkn          desa           tari        luwih        dowo       luwih        medeni       https      co,0.0,netral
+998,moviemenfes       sepi           jelek        nder           rame         bahas        bagus          contoh      kkn          desa       tari         rame         bahas      gua,0.0,netral
+999,moviemenfes       desember       kmrn         pas            mlm          nonton       kkn            desa        tari         sm         mas          crush        wkwk,-1.0,negatif
